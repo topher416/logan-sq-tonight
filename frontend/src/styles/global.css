@@ -198,6 +198,69 @@ a {
   color: var(--free);
 }
 
+/* Showtimes collapsible group */
+.showtimes-group {
+  border-radius: 10px;
+  overflow: hidden;
+}
+.showtimes-toggle {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background: var(--bg-card);
+  border: none;
+  border-radius: 10px;
+  padding: 0;
+  cursor: pointer;
+  min-height: 44px;
+  color: inherit;
+  font-family: inherit;
+  transition: background 0.15s;
+}
+.showtimes-toggle:hover {
+  background: #332e27;
+}
+.showtimes-toggle .venue-bar {
+  width: 4px;
+  align-self: stretch;
+  flex-shrink: 0;
+  border-radius: 4px 0 0 4px;
+}
+.showtimes-toggle-content {
+  flex: 1;
+  padding: 12px 14px;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.showtimes-toggle-title {
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+.showtimes-toggle-count {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+}
+.showtimes-chevron {
+  font-size: 1.25rem;
+  color: var(--text-tertiary);
+  padding: 0 14px;
+  transition: transform 0.2s ease;
+  transform: rotate(0deg);
+}
+.showtimes-chevron.open {
+  transform: rotate(90deg);
+}
+.showtimes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-top: 4px;
+}
+.showtimes-list .event-card {
+  border-radius: 8px;
+}
+
 /* Staggered card entrance */
 @keyframes card-in {
   from {
