@@ -54,7 +54,7 @@ RULES:
 - Dates: ISO 8601 (YYYY-MM-DD). The current year is {date.today().year}. If dates lack a year, assume {date.today().year}.
 - Times: 24-hour HH:MM format (e.g. 21:00 not 9pm).
 - If no events found, return an empty events list.
-- "Events" includes concerts, shows, open mics, trivia, DJ sets, karaoke, film screenings, literary events.
+- "Events" includes concerts, shows, open mics, trivia, DJ sets, karaoke, film screenings, movie showtimes, literary events, comedy shows.
 - Ignore navigation, ads, footers, and non-event content.
 - For the source_url field, return the URL of the specific event page if available, otherwise return null."""
 
@@ -126,7 +126,7 @@ def convert_html_to_markdown(html: str) -> str:
             tag.decompose()
         # Find main content area if possible
         main = soup.find("main") or soup.find(id="content") or soup.find(class_="events") or soup
-        return md(str(main), strip=["img", "video", "audio"])
+        return md(str(main), strip=["video", "audio"])
     except ImportError:
         # Fallback: basic HTML stripping
         text = re.sub(r"<script[^>]*>.*?</script>", "", html, flags=re.DOTALL)
