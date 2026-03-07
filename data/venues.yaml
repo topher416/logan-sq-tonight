@@ -48,9 +48,9 @@
   name: The Owl
   address: 2521 N Milwaukee Ave
   url: https://www.owlbarchicago.com
-  events_url: https://www.owlbarchicago.com
+  events_url: https://www.owlbarchicago.com/upcomingevents
   scrape_strategy: jsonld_with_llm_fallback
-  platform: unknown
+  platform: wix
   color: "#E67E22"
   tags: [late-night, bar, jukebox]
   instagram: "@theowlbar"
@@ -76,3 +76,14 @@
   color: "#E74C3C"
   tags: [movies, screenings, events]
   instagram: "@thelogantheatre"
+
+- id: lincoln-lodge
+  name: Lincoln Lodge
+  address: 2040 N Milwaukee Ave
+  url: https://www.thelincolnlodge.com
+  events_url: https://www.thelincolnlodge.com/calendar
+  scrape_strategy: jsonld_with_llm_fallback
+  platform: wix
+  color: "#F39C12"
+  tags: [comedy, stand-up, open-mic, classes]
+  instagram: "@thelincolnlodge"

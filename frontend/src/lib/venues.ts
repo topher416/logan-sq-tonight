@@ -11,6 +11,7 @@ const VENUES: VenueConfig[] = [
   { id: "owl", name: "The Owl", color: "#E67E22" },
   { id: "harding-tavern", name: "The Harding Tavern", color: "#1ABC9C" },
   { id: "logan-theatre", name: "Logan Theatre", color: "#E74C3C" },
+  { id: "lincoln-lodge", name: "Lincoln Lodge", color: "#F39C12" },
 ];
 
 const venueMap = new Map(VENUES.map((v) => [v.id, v]));

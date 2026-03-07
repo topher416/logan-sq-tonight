@@ -152,6 +152,10 @@ def try_extract_jsonld(html: str) -> list[dict] | None:
                 for node in item["@graph"]:
                     if isinstance(node, dict) and node.get("@type") == "Event":
                         events.append(node)
+            elif isinstance(item, dict) and item.get("@type") == "ItemList":
+                for el in item.get("itemListElement", []):
+                    if isinstance(el, dict) and el.get("@type") == "Event":
+                        events.append(el)
 
         # Check microdata
         for item in data.get("microdata", []):
@@ -170,6 +174,14 @@ def try_extract_jsonld(html: str) -> list[dict] | None:
             if "T" in start and len(start) >= 16:
                 time_start = start[11:16]
 
+            # Extract price from offers
+            price = None
+            offers = e.get("offers", {})
+            if isinstance(offers, dict) and offers.get("price"):
+                p = str(offers["price"])
+                price = "free" if p == "0" else f"${p}"
+            source = e.get("url") or (offers.get("url") if isinstance(offers, dict) else None)
+
             result.append(
                 {
                     "title": e.get("name", "Unknown Event"),
@@ -178,9 +190,9 @@ def try_extract_jsonld(html: str) -> list[dict] | None:
                     "time_start": time_start,
                     "time_end": None,
                     "type": "other",
-                    "price": None,
+                    "price": price,
                     "tags": [],
-                    "source_url": e.get("url"),
+                    "source_url": source,
                 }
             )
 
