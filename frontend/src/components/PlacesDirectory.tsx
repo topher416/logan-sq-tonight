@@ -66,13 +66,14 @@ export function PlacesDirectory({ restaurants }: PlacesDirectoryProps) {
 function PlaceCard({ place }: { place: Restaurant }) {
   const statusClass = place.status.replace(/\s+/g, "-");
   const showBadge = place.status !== "open";
-  const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ", " + place.address + ", Chicago, IL")}`;
+  const href = place.website
+    ?? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ", " + place.address + ", Chicago, IL")}`;
 
   return (
-    <a href={mapsUrl} target="_blank" rel="noopener noreferrer" class="place-card">
+    <a href={href} target="_blank" rel="noopener noreferrer" class="place-card">
       <div class="place-card-top">
         <span class="place-name">{place.name}</span>
-        <span class="place-price">{place.price}</span>
+        <span class="place-price">{place.price_range}</span>
       </div>
       {place.vibe && <span class="place-vibe">{place.vibe}</span>}
       <div class="place-meta">

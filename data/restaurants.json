@@ -13,7 +13,7 @@
     "reservations": false,
     "status": "go-to",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.middlebrowbeer.com/"
   },
   {
     "id": "logan-11",
@@ -29,7 +29,7 @@
     "reservations": false,
     "status": "go-to",
     "google_maps_url": null,
-    "website": null
+    "website": "https://logan11.com/"
   },
   {
     "id": "daisies",
@@ -45,7 +45,7 @@
     "reservations": true,
     "status": "go-to",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.daisieschicago.com/"
   },
   {
     "id": "lucky-trendy-sushi",
@@ -61,7 +61,7 @@
     "reservations": false,
     "status": "go-to",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.luckytrendysushichicago.com/"
   },
   {
     "id": "beautiful-rind",
@@ -77,7 +77,7 @@
     "reservations": false,
     "status": "go-to",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.beautifulrind.com/"
   },
   {
     "id": "gretel",
@@ -93,7 +93,7 @@
     "reservations": false,
     "status": "want-to-try",
     "google_maps_url": null,
-    "website": null
+    "website": "https://gretelchicago.com/"
   },
   {
     "id": "table-donkey-and-stick",
@@ -104,12 +104,14 @@
     "vibe": "Alpine/Central European, 11x Bib Gourmand, Tue-Sun dinner",
     "price_range": "$$$",
     "hours": null,
-    "days_closed": ["Monday"],
+    "days_closed": [
+      "Monday"
+    ],
     "outdoor_seating": false,
     "reservations": true,
     "status": "want-to-try",
     "google_maps_url": null,
-    "website": null
+    "website": "http://tabledonkeystick.com/"
   },
   {
     "id": "andros-taverna",
@@ -125,7 +127,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.androstaverna.com/"
   },
   {
     "id": "lula-cafe",
@@ -136,12 +138,14 @@
     "vibe": "New American institution since 1999, Bib Gourmand, closed Tuesdays",
     "price_range": "$$$",
     "hours": null,
-    "days_closed": ["Tuesday"],
+    "days_closed": [
+      "Tuesday"
+    ],
     "outdoor_seating": false,
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.lulacafe.com/"
   },
   {
     "id": "longman-and-eagle",
@@ -157,7 +161,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.longmanandeagle.com/"
   },
   {
     "id": "union",
@@ -173,7 +177,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.unionlogansquare.com/"
   },
   {
     "id": "lardon",
@@ -189,7 +193,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.lardonchicago.com/"
   },
   {
     "id": "the-radicle",
@@ -205,7 +209,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://radiclechicago.com/"
   },
   {
     "id": "mi-tocaya-antojeria",
@@ -221,7 +225,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.mitocaya.com/"
   },
   {
     "id": "giant",
@@ -237,7 +241,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.giantrestaurant.com/"
   },
   {
     "id": "osteria-langhe",
@@ -253,7 +257,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.osterialanghe.com/"
   },
   {
     "id": "superkhana-international",
@@ -269,7 +273,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.superkhanachicago.com/"
   },
   {
     "id": "cellar-door-provisions",
@@ -280,12 +284,15 @@
     "vibe": "Farm-to-table, Bib Gourmand, Tue-Sat evenings",
     "price_range": "$$$",
     "hours": "Tue-Sat evenings",
-    "days_closed": ["Sunday", "Monday"],
+    "days_closed": [
+      "Sunday",
+      "Monday"
+    ],
     "outdoor_seating": false,
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.cellardoorprovisions.com/"
   },
   {
     "id": "omakase-box",
@@ -301,7 +308,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://omaboxchi.com/"
   },
   {
     "id": "akahoshi-ramen",
@@ -312,12 +319,15 @@
     "vibe": "House-made ramen, Tue-Sat 5-9pm",
     "price_range": "$$",
     "hours": "Tue-Sat 5-9pm",
-    "days_closed": ["Sunday", "Monday"],
+    "days_closed": [
+      "Sunday",
+      "Monday"
+    ],
     "outdoor_seating": false,
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.akahoshiramen.com/"
   },
   {
     "id": "bixi-beer",
@@ -333,7 +343,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.bixi.beer/"
   },
   {
     "id": "reno",
@@ -349,7 +359,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://renochicago.com/"
   },
   {
     "id": "the-stopalong",
@@ -365,7 +375,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.thestopalong.com/"
   },
   {
     "id": "friendship-chinese",
@@ -381,7 +391,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://friendshiprestaurant.com/"
   },
   {
     "id": "la-victoria-barra-cocina",
@@ -397,7 +407,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.lavictoriachicago.com/"
   },
   {
     "id": "three-wheels-noodle",
@@ -413,7 +423,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.trikechicago.com/"
   },
   {
     "id": "lonesome-rose",
@@ -429,7 +439,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.lonesomerose.com/"
   },
   {
     "id": "the-whale",
@@ -445,7 +455,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://thewhalechicago.com/"
   },
   {
     "id": "way-out",
@@ -461,7 +471,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.thewayoutbar.com/"
   },
   {
     "id": "the-moonlighter",
@@ -477,7 +487,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.themoonlighterchicago.com/"
   },
   {
     "id": "mothers-ruin",
@@ -493,7 +503,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://mothersruinchi.com/"
   },
   {
     "id": "pizza-lobo",
@@ -509,7 +519,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.pizzalobo.com/"
   },
   {
     "id": "noodlebird",
@@ -520,12 +530,15 @@
     "vibe": "Macau/Asian street food, Wed-Sun",
     "price_range": "$",
     "hours": "Wed-Sun",
-    "days_closed": ["Monday", "Tuesday"],
+    "days_closed": [
+      "Monday",
+      "Tuesday"
+    ],
     "outdoor_seating": false,
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.noodlebird.com/"
   },
   {
     "id": "el-cid",
@@ -541,7 +554,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://elcidchicago.com/"
   },
   {
     "id": "cafe-con-leche",
@@ -557,7 +570,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.cafeconlechels.com/"
   },
   {
     "id": "kfire-korean-bbq",
@@ -573,7 +586,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.kfire.com/"
   },
   {
     "id": "taco-maya",
@@ -589,7 +602,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.tacomaya.com/"
   },
   {
     "id": "big-wig-tacos",
@@ -605,7 +618,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.bigwigtacos.com/"
   },
   {
     "id": "spicy-taco",
@@ -621,7 +634,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.eatspicytaco.com/"
   },
   {
     "id": "el-fogon-tapatio",
@@ -637,7 +650,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://elfogontapatioil.com/"
   },
   {
     "id": "taqueria-los-comales",
@@ -653,7 +666,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.loscomales.com/"
   },
   {
     "id": "cozy-corner",
@@ -669,7 +682,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.cozycornerrestaurant.com/"
   },
   {
     "id": "txa-txa-club-cafe",
@@ -685,7 +698,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.txatxaclub.com/"
   },
   {
     "id": "penumbra",
@@ -701,7 +714,7 @@
     "reservations": true,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://penumbrawinebar.com/"
   },
   {
     "id": "the-harding-tavern",
@@ -717,7 +730,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.thehardingtavern.com/"
   },
   {
     "id": "fare",
@@ -733,7 +746,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.foodbyfare.com/"
   },
   {
     "id": "stay-cafe",
@@ -749,7 +762,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.stay-cafe.com/"
   },
   {
     "id": "spilt-milk",
@@ -765,7 +778,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.spiltmilktavern.com/"
   },
   {
     "id": "la-lunita",
@@ -781,7 +794,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.lalunitachicago.com/"
   },
   {
     "id": "the-whistler",
@@ -797,7 +810,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://whistlerchicago.com/"
   },
   {
     "id": "cafe-mustache",
@@ -813,7 +826,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.cafemustache.com/"
   },
   {
     "id": "coles-bar",
@@ -829,7 +842,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://colesbarchicago.com/"
   },
   {
     "id": "slippery-slope",
@@ -845,7 +858,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.slipperyslopechicago.com/"
   },
   {
     "id": "emporium-arcade-bar",
@@ -861,7 +874,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.emporiumarcadebar.com/"
   },
   {
     "id": "the-native",
@@ -877,7 +890,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.thenativechicago.com/"
   },
   {
     "id": "the-owl",
@@ -893,7 +906,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.owlbarchicago.com/"
   },
   {
     "id": "heavy-feather",
@@ -904,12 +917,17 @@
     "vibe": "Speakeasy above Slippery Slope, Thu-Sat evenings",
     "price_range": "$$",
     "hours": "Thu-Sat evenings",
-    "days_closed": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "days_closed": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
     "outdoor_seating": false,
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.heavyfeatherchicago.com/"
   },
   {
     "id": "golden-teardrops",
@@ -920,12 +938,17 @@
     "vibe": "Hidden speakeasy, alley entrance, Thu-Sat",
     "price_range": "$$",
     "hours": "Thu-Sat",
-    "days_closed": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "days_closed": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
     "outdoor_seating": false,
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.lonesomerose.com/golden-teardrops"
   },
   {
     "id": "the-meadowlark",
@@ -941,7 +964,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.meadowlarkchicago.com/"
   },
   {
     "id": "best-intentions",
@@ -957,7 +980,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.bestintentionschicago.com/"
   },
   {
     "id": "billy-sunday",
@@ -973,7 +996,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.billy-sunday.com/"
   },
   {
     "id": "estereo",
@@ -989,7 +1012,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.estereochicago.com/"
   },
   {
     "id": "cara-cara-club",
@@ -1005,7 +1028,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.caracarachicago.com/"
   },
   {
     "id": "scofflaw",
@@ -1021,7 +1044,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.scofflawchicago.com/"
   },
   {
     "id": "welcome-back-lounge",
@@ -1037,7 +1060,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.welcomebackchicago.com/"
   },
   {
     "id": "federales",
@@ -1053,7 +1076,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.federaleslogan.com/"
   },
   {
     "id": "innjoy-logan-square",
@@ -1069,7 +1092,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://innjoylogansquare.com/"
   },
   {
     "id": "common-decency",
@@ -1085,7 +1108,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.havecommondecency.com/"
   },
   {
     "id": "quality-time",
@@ -1101,7 +1124,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.qualitytimebar.com/"
   },
   {
     "id": "outside-voices",
@@ -1117,7 +1140,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.outsidevoiceswine.com/"
   },
   {
     "id": "deep-red-wine-merchant",
@@ -1133,7 +1156,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://deepredwinemerchant.com/"
   },
   {
     "id": "websters-wine-bar",
@@ -1149,7 +1172,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.websterwinebar.com/"
   },
   {
     "id": "hopewell-brewing",
@@ -1165,7 +1188,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.hopewellbrewing.com/"
   },
   {
     "id": "gaslight-coffee-roasters",
@@ -1181,7 +1204,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://gaslightcoffee.com/"
   },
   {
     "id": "colectivo-coffee",
@@ -1197,7 +1220,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://colectivo.com/pages/logan-square"
   },
   {
     "id": "new-wave-coffee",
@@ -1213,7 +1236,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.instagram.com/coffeenewwave/"
   },
   {
     "id": "pedestrian-coffee",
@@ -1229,7 +1252,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.drinkpedestrian.com/"
   },
   {
     "id": "chiqueolatte",
@@ -1245,7 +1268,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://chiqueolatte.com/us/"
   },
   {
     "id": "damn-fine-coffee-bar",
@@ -1261,7 +1284,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.damnfinechicago.com/"
   },
   {
     "id": "allez-cafe",
@@ -1277,7 +1300,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.instagram.com/allez.cafe/"
   },
   {
     "id": "logan-collective",
@@ -1293,7 +1316,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.instagram.com/logancollectivecafe/"
   },
   {
     "id": "sip-of-hope",
@@ -1309,7 +1332,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.sipofhope.com/"
   },
   {
     "id": "bang-bang-pie-and-biscuits",
@@ -1325,7 +1348,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.bangbangpie.com/"
   },
   {
     "id": "pretty-cool-ice-cream",
@@ -1341,7 +1364,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.prettycoolicecream.com/"
   },
   {
     "id": "mikos-italian-ice",
@@ -1357,7 +1380,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://mikositalianice.com/"
   },
   {
     "id": "bird-bird-bakery",
@@ -1373,7 +1396,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.noodlebird.com/birdbird"
   },
   {
     "id": "blazed-bakery",
@@ -1389,7 +1412,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://blazedbakery.net/"
   },
   {
     "id": "chicago-distilling-company",
@@ -1400,12 +1423,17 @@
     "vibe": "Tasting room, tours, cocktails Thu-Sat",
     "price_range": "$$",
     "hours": "Thu-Sat",
-    "days_closed": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "days_closed": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
     "outdoor_seating": false,
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.chicagodistilling.com/"
   },
   {
     "id": "pure-green",
@@ -1421,7 +1449,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.puregreen.com/"
   },
   {
     "id": "logan-vegan",
@@ -1437,7 +1465,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.loganvegan.com/"
   },
   {
     "id": "concord-music-hall",
@@ -1453,7 +1481,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://concordmusichall.com/"
   },
   {
     "id": "lincoln-lodge",
@@ -1469,7 +1497,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.thelincolnlodge.com/"
   },
   {
     "id": "logan-theatre",
@@ -1485,7 +1513,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.thelogantheatre.com/"
   },
   {
     "id": "logan-square-auditorium",
@@ -1501,7 +1529,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://logansquareauditorium.com/"
   },
   {
     "id": "uprising-theater-and-cafe",
@@ -1517,7 +1545,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://uprisingtheaterchicago.com/"
   },
   {
     "id": "comfort-station",
@@ -1533,7 +1561,7 @@
     "reservations": false,
     "status": "open",
     "google_maps_url": null,
-    "website": null
+    "website": "https://comfortstationlogansquare.org/"
   },
   {
     "id": "feverdream",
@@ -1549,7 +1577,7 @@
     "reservations": false,
     "status": "coming-soon",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.instagram.com/feverdream_chicago/"
   },
   {
     "id": "tacos-del-barrio",
@@ -1565,7 +1593,7 @@
     "reservations": false,
     "status": "coming-soon",
     "google_maps_url": null,
-    "website": null
+    "website": "https://tacosdelbarrio.square.site/"
   },
   {
     "id": "new-coastal-italian-concept",
@@ -1581,7 +1609,7 @@
     "reservations": false,
     "status": "coming-soon",
     "google_maps_url": null,
-    "website": null
+    "website": "https://radiclechicago.com/"
   },
   {
     "id": "saba-italian-bar-kitchen",
@@ -1597,7 +1625,7 @@
     "reservations": false,
     "status": "closed",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.sabaitalian.com/"
   },
   {
     "id": "the-chicago-diner-logan-sq",
@@ -1613,7 +1641,7 @@
     "reservations": false,
     "status": "closed",
     "google_maps_url": null,
-    "website": null
+    "website": "https://veggiediner.com/"
   },
   {
     "id": "90-miles-cuban-cafe",
@@ -1629,7 +1657,7 @@
     "reservations": false,
     "status": "closed",
     "google_maps_url": null,
-    "website": null
+    "website": "https://90milescubancafe.com/"
   },
   {
     "id": "pink-squirrel",
@@ -1645,6 +1673,6 @@
     "reservations": false,
     "status": "closed",
     "google_maps_url": null,
-    "website": null
+    "website": "https://www.pinksquirrelbar.com/"
   }
 ]

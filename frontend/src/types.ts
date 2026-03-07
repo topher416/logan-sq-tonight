@@ -21,10 +21,10 @@ export interface Restaurant {
   category: string;
   subcategory: string | null;
   vibe: string;
-  price: string;
+  price_range: string;
   status: string;
   note: string | null;
-  url: string | null;
+  website: string | null;
   instagram: string | null;
 }
 
