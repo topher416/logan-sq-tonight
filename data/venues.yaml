@@ -32,3 +32,47 @@
   tags: [live-music, comedy, dive-bar]
   instagram: "@colesbarchicago"
   do312_slug: coles
+
+- id: native
+  name: The Native
+  address: 2416 N Milwaukee Ave
+  url: https://www.thenativechicago.com
+  events_url: https://www.thenativechicago.com
+  scrape_strategy: jsonld_with_llm_fallback
+  platform: unknown
+  color: "#2ECC71"
+  tags: [bar, vegan-friendly, patio]
+  instagram: "@thenativechicago"
+
+- id: owl
+  name: The Owl
+  address: 2521 N Milwaukee Ave
+  url: https://www.owlbarchicago.com
+  events_url: https://www.owlbarchicago.com
+  scrape_strategy: jsonld_with_llm_fallback
+  platform: unknown
+  color: "#E67E22"
+  tags: [late-night, bar, jukebox]
+  instagram: "@theowlbar"
+
+- id: harding-tavern
+  name: The Harding Tavern
+  address: 2732 N Milwaukee Ave
+  url: https://www.thehardingtavern.com
+  events_url: https://www.thehardingtavern.com
+  scrape_strategy: jsonld_with_llm_fallback
+  platform: unknown
+  color: "#1ABC9C"
+  tags: [craft-beer, cocktails, kitchen]
+  instagram: "@thehardingtavern"
+
+- id: logan-theatre
+  name: Logan Theatre
+  address: 2646 N Milwaukee Ave
+  url: https://www.thelogantheatre.com
+  events_url: https://www.thelogantheatre.com/?nf=shows
+  scrape_strategy: jsonld_with_llm_fallback
+  platform: unknown
+  color: "#E74C3C"
+  tags: [movies, screenings, events]
+  instagram: "@thelogantheatre"
