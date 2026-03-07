@@ -206,6 +206,60 @@ def try_extract_jsonld(html: str) -> list[dict] | None:
         return None
 
 
+def try_extract_wix_events(html: str) -> list[dict] | None:
+    """Extract events from Wix Events widget data embedded in page source."""
+    try:
+        # Wix embeds event data as JSON in the page with scheduling.config.startDate
+        matches = re.findall(
+            r'"title":"((?:[^"\\]|\\.)*)".*?"scheduling":\{"config":\{[^}]*"startDate":"([^"]+)"[^}]*"endDate":"([^"]+)"',
+            html,
+        )
+        if not matches:
+            return None
+
+        seen: set[str] = set()
+        events = []
+        for title, start_utc, end_utc in matches:
+            # Parse UTC datetime and convert to Chicago time
+            try:
+                start_dt = datetime.fromisoformat(start_utc.replace("Z", "+00:00"))
+                start_chicago = start_dt.astimezone(CHICAGO)
+                end_dt = datetime.fromisoformat(end_utc.replace("Z", "+00:00"))
+                end_chicago = end_dt.astimezone(CHICAGO)
+            except (ValueError, TypeError):
+                continue
+
+            event_date = start_chicago.strftime("%Y-%m-%d")
+            time_start = start_chicago.strftime("%H:%M")
+            time_end = end_chicago.strftime("%H:%M")
+
+            # Unescape JSON string
+            title = title.encode().decode("unicode_escape", errors="ignore")
+
+            key = f"{event_date}|{time_start}|{title}"
+            if key in seen:
+                continue
+            seen.add(key)
+
+            events.append({
+                "title": title,
+                "description": None,
+                "date": event_date,
+                "time_start": time_start,
+                "time_end": time_end,
+                "type": "other",
+                "price": None,
+                "tags": [],
+                "source_url": None,
+            })
+
+        return events if events else None
+
+    except Exception as exc:
+        log.warning("wix_extraction_failed", error=str(exc))
+        return None
+
+
 async def fetch_html(client: httpx.AsyncClient, url: str, venue_id: str) -> str | None:
     """Fetch a venue page's HTML."""
     try:
@@ -313,23 +367,33 @@ async def scrape_venue(
         if html is None:
             return venue, ScrapeResult.FETCH_FAILED, []
 
-        # Try JSON-LD first
-        jsonld_events = try_extract_jsonld(html)
-        if jsonld_events:
-            log.info("jsonld_found", venue_id=venue.id, count=len(jsonld_events))
-            raw_events = jsonld_events
-        elif venue.scrape_strategy in ("llm", "jsonld_with_llm_fallback"):
-            # Convert to markdown and use LLM
+        raw_events: list[dict] | None = None
+
+        # 1. Wix events data (structured JSON embedded in page source)
+        if venue.platform == "wix":
+            wix_events = try_extract_wix_events(html)
+            if wix_events:
+                log.info("wix_events_found", venue_id=venue.id, count=len(wix_events))
+                raw_events = wix_events
+
+        # 2. JSON-LD / microdata
+        if raw_events is None:
+            jsonld_events = try_extract_jsonld(html)
+            if jsonld_events:
+                log.info("jsonld_found", venue_id=venue.id, count=len(jsonld_events))
+                raw_events = jsonld_events
+
+        # 3. LLM fallback
+        if raw_events is None and venue.scrape_strategy in ("llm", "jsonld_with_llm_fallback"):
             markdown = convert_html_to_markdown(html)
             log.info("llm_extracting", venue_id=venue.id, markdown_len=len(markdown))
-
             result = await extract_with_llm(markdown, venue.name)
             if result is None:
                 return venue, ScrapeResult.EXTRACTION_FAILED, []
-
             raw_events = result
             log.info("llm_extracted", venue_id=venue.id, count=len(raw_events))
-        else:
+
+        if raw_events is None:
             log.warning("no_extraction_strategy", venue_id=venue.id)
             return venue, ScrapeResult.EXTRACTION_FAILED, []
 
