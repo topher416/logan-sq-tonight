@@ -66,9 +66,10 @@ export function PlacesDirectory({ restaurants }: PlacesDirectoryProps) {
 function PlaceCard({ place }: { place: Restaurant }) {
   const statusClass = place.status.replace(/\s+/g, "-");
   const showBadge = place.status !== "open";
+  const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ", " + place.address + ", Chicago, IL")}`;
 
   return (
-    <div class="place-card">
+    <a href={mapsUrl} target="_blank" rel="noopener noreferrer" class="place-card">
       <div class="place-card-top">
         <span class="place-name">{place.name}</span>
         <span class="place-price">{place.price}</span>
@@ -81,6 +82,6 @@ function PlaceCard({ place }: { place: Restaurant }) {
           <span class={`status-badge ${statusClass}`}>{place.status}</span>
         )}
       </div>
-    </div>
+    </a>
   );
 }

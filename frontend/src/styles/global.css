@@ -415,6 +415,14 @@ a {
   background: var(--bg-card);
   border-radius: 10px;
   animation: card-in 0.25s ease both;
+  transition: background 0.15s;
+  cursor: pointer;
+}
+.place-card:hover {
+  background: #332e27;
+}
+.place-card:active {
+  transform: scale(0.98);
 }
 .place-card-top {
   display: flex;
