@@ -2,6 +2,7 @@ import { useState } from "preact/hooks";
 import { EventCard } from "./EventCard";
 import { EmptyState } from "./EmptyState";
 import { getVenueColor } from "../lib/venues";
+import { BOOSTED_TYPES, MUTED_TYPES } from "../lib/preferences";
 import type { Event } from "../types";
 
 interface EventListProps {
@@ -14,14 +15,19 @@ const COLLAPSIBLE_VENUE = "logan-theatre";
 export function EventList({ events, date }: EventListProps) {
   const [showShowtimes, setShowShowtimes] = useState(false);
 
+  const relevanceRank = (e: Event) =>
+    BOOSTED_TYPES.includes(e.type) ? 0 : MUTED_TYPES.includes(e.type) ? 2 : 1;
+
   const dayEvents = events
     .filter((e) => e.date === date)
     .sort((a, b) => {
-      // Sort by time_start, nulls last
-      if (!a.time_start && !b.time_start) return 0;
+      // Sort by time_start, nulls last; then boosted before muted within same time
+      if (!a.time_start && !b.time_start) return relevanceRank(a) - relevanceRank(b);
       if (!a.time_start) return 1;
       if (!b.time_start) return -1;
-      return a.time_start.localeCompare(b.time_start);
+      const timeCmp = a.time_start.localeCompare(b.time_start);
+      if (timeCmp !== 0) return timeCmp;
+      return relevanceRank(a) - relevanceRank(b);
     });
 
   if (dayEvents.length === 0) {

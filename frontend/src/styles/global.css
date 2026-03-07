@@ -198,6 +198,17 @@ a {
   color: var(--free);
 }
 
+/* Relevance: boosted & muted */
+.event-card.muted {
+  opacity: 0.55;
+}
+.event-card.muted .venue-bar {
+  box-shadow: none !important;
+}
+.event-card.boosted .venue-bar {
+  width: 5px;
+}
+
 /* Showtimes collapsible group */
 .showtimes-group {
   border-radius: 10px;

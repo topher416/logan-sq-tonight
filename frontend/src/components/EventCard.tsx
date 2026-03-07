@@ -1,5 +1,6 @@
 import { getVenueColor } from "../lib/venues";
 import { formatTime } from "../lib/tonight";
+import { BOOSTED_TYPES, MUTED_TYPES } from "../lib/preferences";
 import type { Event } from "../types";
 
 interface EventCardProps {
@@ -13,19 +14,24 @@ export function EventCard({ event }: EventCardProps) {
     event.price?.toLowerCase() === "free" ||
     event.price === "$0" ||
     event.price === "0";
+  const relevance = BOOSTED_TYPES.includes(event.type)
+    ? "boosted"
+    : MUTED_TYPES.includes(event.type)
+      ? "muted"
+      : "";
 
   return (
     <a
       href={event.source_url}
       target="_blank"
       rel="noopener noreferrer"
-      class="event-card"
+      class={`event-card ${relevance}`}
     >
       <div
         class="venue-bar"
         style={{
           backgroundColor: color,
-          boxShadow: `0 0 8px ${color}44`,
+          boxShadow: relevance === "muted" ? "none" : `0 0 8px ${color}44`,
         }}
       />
       <div class="event-card-content">
