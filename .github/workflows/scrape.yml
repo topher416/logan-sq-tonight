@@ -36,7 +36,7 @@ jobs:
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "data: update events [skip ci]"
+          commit_message: "data: update events"
           file_pattern: 'data/events.json frontend/public/data/events.json'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
