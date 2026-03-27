@@ -1,40 +1,5 @@
 [
   {
-    "id": "cafe-mustache-2026-03-25-open-house-service-industry-listening-night",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Open House ~ Service Industry Listening Night",
-    "description": null,
-    "date": "2026-03-25",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "listening event",
-      "service industry"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
-  },
-  {
-    "id": "coles-2026-03-26-kilynn-lunsford-the-ineffectuals-the-xpressionists",
-    "venue_id": "coles",
-    "venue_name": "Coles Bar",
-    "title": "Kilynn Lunsford, The Ineffectuals, The Xpressionists",
-    "description": null,
-    "date": "2026-03-26",
-    "time_start": "21:00",
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": "$14.45",
-    "tags": [],
-    "source_url": "https://colesbarchicago.com/event/kilynn-lunsford-the-ineffectuals-the-xpressionists/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
-  },
-  {
     "id": "owl-2026-03-26-crazy-bingo-with-e",
     "venue_id": "owl",
     "venue_name": "The Owl",
@@ -51,24 +16,6 @@
     "scraped_at": "2026-03-26T20:39:21Z"
   },
   {
-    "id": "whistler-2026-03-26-prosperity-room",
-    "venue_id": "whistler",
-    "venue_name": "The Whistler",
-    "title": "Prosperity Room",
-    "description": "RnB, Hip Hop Remixes, Afrobeats, Baile Funk, and more.",
-    "date": "2026-03-26",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "dj",
-    "price": null,
-    "tags": [
-      "Thursday"
-    ],
-    "source_url": "https://whistlerchicago.com/events/prosperity-room-mar-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
-  },
-  {
     "id": "cafe-mustache-2026-03-26-new-kid-on-the-block-iv",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
@@ -80,27 +27,9 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "live music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
-  },
-  {
-    "id": "logan-theatre-2026-03-26-the-ai-doc-or-how-i-became-an-apocaloptimist",
-    "venue_id": "logan-theatre",
-    "venue_name": "Logan Theatre",
-    "title": "The AI Doc: Or How I Became an Apocaloptimist",
-    "description": null,
-    "date": "2026-03-26",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "film",
-    "price": null,
     "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/The%5FAI%5FDoc%5FOr%5FHow%5FI%5FBecame%5Fan%5FApocaloptimist",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "cafe-mustache-2026-03-27-friday-karaoke",
@@ -114,11 +43,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-03-27-gen-x-joplin-moon-goons-a-mammoth-task",
@@ -132,9 +59,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/gen-x-joplin-moon-goons-a-mammoth-task/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-03-27-open-world-dj-set-with-hima-ji",
@@ -168,7 +97,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/chico-mar-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "cafe-mustache-2026-03-27-puppetpalooza",
@@ -180,29 +109,11 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [
-      "puppet performance"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
-  },
-  {
-    "id": "logan-theatre-2026-03-27-oldboy-2005",
-    "venue_id": "logan-theatre",
-    "venue_name": "Logan Theatre",
-    "title": "Oldboy (2005)",
-    "description": null,
-    "date": "2026-03-27",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "film",
+    "type": "music",
     "price": null,
     "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/Oldboy%5F2005",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "cafe-mustache-2026-03-28-saturday-karaoke",
@@ -216,11 +127,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-03-28-chupaflor-killer-high-life-totally-cashed",
@@ -234,9 +143,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/chupaflor-killer-high-life-totally-cashed/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-03-28-sean-tanktop",
@@ -270,7 +181,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/stephen-williams-book-launch",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "cafe-mustache-2026-03-29-sunday-brunch",
@@ -284,11 +195,9 @@
     "timezone": "America/Chicago",
     "type": "other",
     "price": null,
-    "tags": [
-      "brunch"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "owl-2026-03-29-the-switch-up-with-djs-esteban-la-groue-and-danny-dan",
@@ -318,11 +227,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-03-29-lunde-sitrus-sol-favelas",
@@ -336,9 +243,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/lunde-sitrus-sol-favelas/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-03-29-all-music-trivia",
@@ -372,7 +281,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/chirp-night-mar-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-03-30-new-groove-revolution-kacie-brown-and-the-vision-soultribe-and-dj-chris-robbin",
@@ -387,10 +296,11 @@
     "type": "music",
     "price": "$14.45",
     "tags": [
+      "live music",
       "Unfamiliar Sessions"
     ],
     "source_url": "https://colesbarchicago.com/event/new-groove-revolution-kacie-brown-and-the-vision-soultribe-and-dj-chris-robbin/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "cafe-mustache-2026-03-30-citizens-utility-board",
@@ -406,7 +316,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-03-31-rocknite-presents-sarah-krohn-surf-cowboy-trash-kickers",
@@ -420,9 +330,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/rocknite-presents-sarah-krohn-surf-cowboy-trash-kickers/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-03-31-apocalypse-confidential",
@@ -440,7 +352,7 @@
       "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/apocalypse-confidential",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "cafe-mustache-2026-03-31-drag-night",
@@ -454,11 +366,9 @@
     "timezone": "America/Chicago",
     "type": "other",
     "price": null,
-    "tags": [
-      "drag"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "owl-2026-04-01-omni-direct-with-dj-mukqs",
@@ -492,7 +402,7 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/kyle-madsen-trio-april-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "cafe-mustache-2026-04-01-charles-joseph-smith-collected-works-listening-party",
@@ -506,27 +416,28 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "listening party"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
-    "id": "logan-theatre-2026-04-01-the-super-mario-galaxy-movie",
+    "id": "logan-theatre-2026-04-01-i-play-games-mario-galaxy-release-party",
     "venue_id": "logan-theatre",
     "venue_name": "Logan Theatre",
-    "title": "The Super Mario Galaxy Movie",
+    "title": "I Play Games: Mario Galaxy Release Party",
     "description": null,
     "date": "2026-04-01",
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "film",
+    "type": "other",
     "price": null,
-    "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/The%5FSuper%5FMario%5FGalaxy%5FMovie",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "tags": [
+      "game release",
+      "party"
+    ],
+    "source_url": "https://www.thelogantheatre.com/content/I+Play+Games+Mario+Galaxy+Release+Party",
+    "scraped_at": "2026-03-27T20:42:54Z"
   },
   {
     "id": "coles-2026-04-02-raccoon-junior-xyta-vinny-guido",
@@ -540,9 +451,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/raccoon-junior-xyta-vinny-guido/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-04-02-rent-control-free-music-show",
@@ -570,13 +483,13 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "dj",
+    "type": "other",
     "price": null,
     "tags": [
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/heat-sync-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "cafe-mustache-2026-04-02-wax-on-vinyl-djs",
@@ -590,12 +503,9 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": null,
-    "tags": [
-      "dj",
-      "vinyl"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "cafe-mustache-2026-04-03-friday-karaoke",
@@ -609,11 +519,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-04-03-worst-gnome-you-ever-met-the-third-son-jacolyn-parker-benefit-show-for-albany-park-mutual-aid",
@@ -627,9 +535,12 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.55",
-    "tags": [],
+    "tags": [
+      "live music",
+      "benefit show"
+    ],
     "source_url": "https://colesbarchicago.com/event/worst-gnome-you-ever-met-the-third-son-jacolyn-parker-benefit-show-for-albany-park-mutual-aid/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-04-03-open-world-dj-set-with-hima-ji",
@@ -663,41 +574,23 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/club-sh-t-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
-    "id": "cafe-mustache-2026-04-03-descarga-edwin-days",
+    "id": "cafe-mustache-2026-04-03-descarga",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
-    "title": "[.DESCARGA.], Edwin Days",
-    "description": null,
+    "title": ".DESCARGA.",
+    "description": "with Edwin Days",
     "date": "2026-04-03",
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "live music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
-  },
-  {
-    "id": "logan-theatre-2026-04-03-donnie-darko",
-    "venue_id": "logan-theatre",
-    "venue_name": "Logan Theatre",
-    "title": "Donnie Darko",
-    "description": null,
-    "date": "2026-04-03",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "film",
-    "price": null,
     "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/Donnie%5FDarko",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "cafe-mustache-2026-04-04-saturday-karaoke",
@@ -711,11 +604,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-04-04-mortlach-tree-gardener-mn-amon-lanc-in-gloamwalker-in-kennel-master",
@@ -729,9 +620,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16.65",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/mortlach-tree-gardener-mn-amon-lanc-in-gloamwalker-in-kennel-master/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-04-04-lizanne-cook",
@@ -765,7 +658,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/feelgood-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "cafe-mustache-2026-04-04-open-decks",
@@ -779,12 +672,9 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": null,
-    "tags": [
-      "dj",
-      "open decks"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "owl-2026-04-05-the-switch-up-with-djs-esteban-la-groue-and-danny-dan",
@@ -814,11 +704,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "owl-2026-04-05-all-music-trivia",
@@ -848,12 +736,9 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "brunch",
-      "live music"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-03-26T20:39:20Z"
+    "scraped_at": "2026-03-27T20:42:19Z"
   },
   {
     "id": "coles-2026-04-07-an-evening-with-la-rosa-noir-friends",
@@ -868,10 +753,10 @@
     "type": "music",
     "price": "$14.45",
     "tags": [
-      "Sportspeppers"
+      "live music"
     ],
     "source_url": "https://colesbarchicago.com/event/an-evening-with-la-rosa-noir-friends/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-07-poets-club-of-chicago-anniversary-reading",
@@ -889,7 +774,7 @@
       "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/poets-club",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "owl-2026-04-08-omni-direct-with-dj-mukqs",
@@ -923,7 +808,7 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/gustavo-flores-unity",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "owl-2026-04-09-free-live-music",
@@ -953,9 +838,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/sleeping-trees-the-matriarch-westhead/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-04-09-crazy-bingo-with-e",
@@ -989,7 +876,7 @@
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/fusion-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "owl-2026-04-10-open-world-dj-set-with-hima-ji",
@@ -1023,23 +910,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/vibes-on-logan-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
-  },
-  {
-    "id": "logan-theatre-2026-04-10-scott-pilgrim-vs-the-world-2010",
-    "venue_id": "logan-theatre",
-    "venue_name": "Logan Theatre",
-    "title": "Scott Pilgrim vs. the World (2010)",
-    "description": null,
-    "date": "2026-04-10",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "film",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/Scott%5FPilgrim%5Fvs%5Fthe%5FWorld%5F2010",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-11-menace4hire-gayun-cannon-waine-ghazi-armanii-day",
@@ -1054,10 +925,10 @@
     "type": "music",
     "price": "$14.45",
     "tags": [
-      "Lilheadbutt"
+      "live music"
     ],
     "source_url": "https://colesbarchicago.com/event/menace4hire-gayun-cannon-waine-ghazi-armanii-day/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-04-11-sean-tanktop",
@@ -1091,7 +962,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/all-love-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "owl-2026-04-12-the-switch-up-with-djs-esteban-la-groue-and-danny-dan",
@@ -1121,9 +992,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/astrid-pierce-street-dove-suzy-lee/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "owl-2026-04-12-all-music-trivia",
@@ -1157,7 +1030,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/living-listening-party-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-13-video-game-music-dj-night-with-equip-mukqs",
@@ -1171,9 +1044,12 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "DJ night",
+      "video game music"
+    ],
     "source_url": "https://colesbarchicago.com/event/video-game-music-dj-night-with-equip-mukqs-31/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-04-14-max-glazer-dicot-adri-zhong-jack-tecca",
@@ -1188,10 +1064,10 @@
     "type": "music",
     "price": "$14.45",
     "tags": [
-      "Max Glazer Presents: Sliding into 30"
+      "live music"
     ],
     "source_url": "https://colesbarchicago.com/event/max-glazer-dicot-adri-zhong-jack-tecca/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-14-relax-attack-jazz-series-aaron-krings-quartet",
@@ -1209,7 +1085,7 @@
       "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/aaron-krings-quartet",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "owl-2026-04-15-omni-direct-with-dj-mukqs",
@@ -1237,11 +1113,11 @@
     "time_start": "17:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
     "tags": [],
     "source_url": "https://colesbarchicago.com/event/airway-stories/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-16-civl-fest-presents-clu-b-rat",
@@ -1253,13 +1129,13 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "dj",
     "price": null,
     "tags": [
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/clubrat-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-17-puff-pole",
@@ -1274,10 +1150,10 @@
     "type": "music",
     "price": "$22.15",
     "tags": [
-      "Black Skrippa Brigade"
+      "live music"
     ],
     "source_url": "https://colesbarchicago.com/event/puffpole/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-17-buen-viaje",
@@ -1295,23 +1171,25 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/buen-viaje-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
-    "id": "logan-theatre-2026-04-17-purple-rain-1984",
-    "venue_id": "logan-theatre",
-    "venue_name": "Logan Theatre",
-    "title": "Purple Rain (1984)",
+    "id": "coles-2026-04-18-psychotic-break",
+    "venue_id": "coles",
+    "venue_name": "Coles Bar",
+    "title": "Psychotic Break",
     "description": null,
-    "date": "2026-04-17",
-    "time_start": null,
+    "date": "2026-04-18",
+    "time_start": "04:20",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "film",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/Purple%5FRain%5F1984",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "type": "music",
+    "price": "free",
+    "tags": [
+      "live music"
+    ],
+    "source_url": "https://colesbarchicago.com/event/psychotic-break-9/coles-bar/n-milwaukee-illinois/",
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-04-18-unsheathed-glory-ma-mors-vitaque-lone-sentinel-in-dj-lawn-brutic",
@@ -1326,10 +1204,12 @@
     "type": "music",
     "price": "$16.65",
     "tags": [
-      "CIVL Fest Chicago & Great Lakes Dungeon Siege"
+      "live music",
+      "CIVL Fest Chicago",
+      "Great Lakes Dungeon Siege"
     ],
     "source_url": "https://colesbarchicago.com/event/unsheathed-glory-ma-mors-vitaque-lone-sentinel-in-dj-lawn-brutic/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-04-18-dj-lawn-brutic",
@@ -1344,28 +1224,30 @@
     "type": "dj",
     "price": "free",
     "tags": [
-      "CIVL Fest Chicago & Great Lakes Dungeon Siege"
+      "DJ",
+      "CIVL Fest Chicago",
+      "Great Lakes Dungeon Siege"
     ],
     "source_url": "https://colesbarchicago.com/event/dj-lawn-brutic/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
-    "id": "whistler-2026-04-18-pleasure-index-with-djs-jesse-sandwich-matte",
+    "id": "whistler-2026-04-18-raging-opossum-press-launch-party",
     "venue_id": "whistler",
     "venue_name": "The Whistler",
-    "title": "Pleasure Index with DJs Jesse Sandwich & Matte",
-    "description": "Saturday night dance party",
+    "title": "Raging Opossum Press Launch Party",
+    "description": null,
     "date": "2026-04-18",
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "dj",
+    "type": "other",
     "price": null,
     "tags": [
       "Saturday"
     ],
-    "source_url": "https://whistlerchicago.com/events/pleasure-index-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "source_url": "https://whistlerchicago.com/events/raging-opossum-press-magazine-release-party",
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-19-the-convenience",
@@ -1379,9 +1261,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16.65",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/the-convenience/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-19-tromblau-nick2bomb",
@@ -1399,7 +1283,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/tromblau-nick2bomb-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-20-cole-s-bar-jam-session",
@@ -1413,9 +1297,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "jam session"
+    ],
     "source_url": "https://colesbarchicago.com/event/coles-bar-jam-session-38/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-04-21-perfect-mash-a-dating-show",
@@ -1430,10 +1316,10 @@
     "type": "other",
     "price": "$16.65",
     "tags": [
-      "Hot Potato Hearts"
+      "dating show"
     ],
     "source_url": "https://colesbarchicago.com/event/perfect-mash-a-dating-show-17/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-21-civl-fest-presents-indigo",
@@ -1445,13 +1331,13 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "dj",
     "price": null,
     "tags": [
       "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/indigo-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "whistler-2026-04-22-relax-attack-jazz-series-arman-sangalang-quartet",
@@ -1469,7 +1355,7 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/arman-sangalang-quartet-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "whistler-2026-04-23-civl-fest-presents-prosperity-room",
@@ -1487,7 +1373,7 @@
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/prosperity-room-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-24-r-burlesque-it-s-our-anniversary",
@@ -1502,26 +1388,10 @@
     "type": "other",
     "price": "$22.15",
     "tags": [
-      "Harlem Nyte"
+      "burlesque"
     ],
     "source_url": "https://colesbarchicago.com/event/rburlesque-its-our-anniversary/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
-  },
-  {
-    "id": "logan-theatre-2026-04-24-blue-velvet-1986",
-    "venue_id": "logan-theatre",
-    "venue_name": "Logan Theatre",
-    "title": "Blue Velvet (1986)",
-    "description": null,
-    "date": "2026-04-24",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "film",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/Blue%5FVelvet%5F1986",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-04-25-gerfety-hearthands-plush",
@@ -1535,9 +1405,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/gerfety-hearthands-plush/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-25-genrefluid",
@@ -1555,7 +1427,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/genrefluid",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "logan-theatre-2026-04-25-revisiting-utopia",
@@ -1569,9 +1441,11 @@
     "timezone": "America/Chicago",
     "type": "film",
     "price": null,
-    "tags": [],
-    "source_url": "https://www.thelogantheatre.com/movie/Revisiting%5FUtopia",
-    "scraped_at": "2026-03-23T20:41:01Z"
+    "tags": [
+      "film screening"
+    ],
+    "source_url": "https://www.thelogantheatre.com/content/Revisiting+Utopia",
+    "scraped_at": "2026-03-27T20:42:54Z"
   },
   {
     "id": "coles-2026-04-26-speedway-squad-mydge-dr-goldfoot-the-bikini-machine",
@@ -1585,9 +1459,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/speedway-squad-mydge-dr-goldfoot-the-bikini-machine/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-26-chirp-night-with-prathloons-adelaide",
@@ -1605,7 +1481,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/chirp-night-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-27-missspoken",
@@ -1617,11 +1493,11 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
     "tags": [],
     "source_url": "https://colesbarchicago.com/event/missspoken-6/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-04-28-rowshambow",
@@ -1633,11 +1509,11 @@
     "time_start": "21:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
     "tags": [],
     "source_url": "https://colesbarchicago.com/event/rowshambow-4/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "whistler-2026-04-28-relax-attack-jazz-series-dave-rempis-tyler-damon-duo",
@@ -1655,7 +1531,7 @@
       "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/dave-rempis-tyler-damon-duo",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "whistler-2026-04-29-relax-attack-jazz-series-heat-on",
@@ -1673,7 +1549,7 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/heat-on-apr-2026",
-    "scraped_at": "2026-03-26T20:39:14Z"
+    "scraped_at": "2026-03-27T20:42:11Z"
   },
   {
     "id": "coles-2026-04-30-bum-rush-yolk-sana-all",
@@ -1687,9 +1563,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/bum-rush-yolk-sana-all/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-05-02-sex-mex-watermelon-doomzday-slutz",
@@ -1703,9 +1581,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/sex-mex-watermelon-doomzday-slutz/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-05-05-dead-sugar-mel-senese-friends",
@@ -1719,9 +1599,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/dead-sugar-mel-senese-friends/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-05-08-jack-riedy-and-the-dealbreakers-off-belay-jack-moony-and-the-sun-drops",
@@ -1735,9 +1617,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/jack-riedy-and-the-dealbreakers-off-belay-jack-moony-and-the-sun-drops/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-05-09-slow-slow-loris-soundoferror-heavy-pauses-death-pyre-animal-talking-school",
@@ -1751,9 +1635,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/slow-slow-loris-soundoferror-heavy-pauses-death-pyre-animal-talking-school/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-05-23-a-casual-divorce-chrome-rhino-jj-smith",
@@ -1767,9 +1653,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$14.45",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/event/a-casual-divorce-chrome-rhino-jj-smith/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
   },
   {
     "id": "coles-2026-05-25-missspoken",
@@ -1781,10 +1669,26 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
     "tags": [],
     "source_url": "https://colesbarchicago.com/event/missspoken-7/coles-bar/n-milwaukee-illinois/",
-    "scraped_at": "2026-03-26T20:39:54Z"
+    "scraped_at": "2026-03-27T20:42:51Z"
+  },
+  {
+    "id": "coles-2026-05-26-rowshambow",
+    "venue_id": "coles",
+    "venue_name": "Coles Bar",
+    "title": "RowShamBow",
+    "description": null,
+    "date": "2026-05-26",
+    "time_start": "21:00",
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": "free",
+    "tags": [],
+    "source_url": "https://colesbarchicago.com/event/rowshambow-5/coles-bar/n-milwaukee-illinois/",
+    "scraped_at": "2026-03-27T20:42:51Z"
   }
 ]
