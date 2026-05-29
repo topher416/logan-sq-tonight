@@ -1,23 +1,5 @@
 [
   {
-    "id": "cafe-mustache-2026-05-27-frances-plus-special-guest",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Frances (plus special guest)",
-    "description": null,
-    "date": "2026-05-27",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-05-28T21:56:47Z"
-  },
-  {
     "id": "owl-2026-05-28-memorial-day",
     "venue_id": "owl",
     "venue_name": "The Owl",
@@ -32,22 +14,6 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-05-26T21:47:26Z"
-  },
-  {
-    "id": "coles-2026-05-28-stmnts-fecto-glen-montrose-beach",
-    "venue_id": "coles",
-    "venue_name": "Coles Bar",
-    "title": "STMNTS, Fecto Glen, Montrose Beach",
-    "description": null,
-    "date": "2026-05-28",
-    "time_start": "21:00",
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": "$16",
-    "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/stmnts-fecto-glen-montrose-beach-may-28-2026-691190",
-    "scraped_at": "2026-05-28T21:57:21Z"
   },
   {
     "id": "owl-2026-05-28-crazy-bingo-with-e",
@@ -107,17 +73,19 @@
     "id": "coles-2026-05-29-mall-drag-chicago",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
-    "title": "MALL DRAG CHICAGO",
+    "title": "Mall Drag Chicago",
     "description": null,
     "date": "2026-05-29",
     "time_start": "21:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "Sold Out",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/mall-drag-chicago-may-29-2026-691195",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "cafe-mustache-2026-05-29-friday-karaoke",
@@ -203,9 +171,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/spider-baby-tarantula-threat-pose-bugoff-may-30-2026-691197",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-05-30-open-world-dj-set-with-hima-ji",
@@ -287,9 +257,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/teens-in-trouble-the-dreaded-laramie-friends-may-31-2026-691198",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-05-31-all-music-trivia",
@@ -355,9 +327,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/sunset-contender-airport-77-star-funeral-june-01-2026-691191",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "cafe-mustache-2026-06-01-hot-potato-hearts",
@@ -389,9 +363,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/safekeeping-wild-zero-john-herrin-june-02-2026-712606",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-02-the-whistler-jam-june-2026-edition",
@@ -439,9 +415,11 @@
     "timezone": "America/Chicago",
     "type": "comedy",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-june-03-2026-712654",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-03-relax-attack-jazz-series-leon-lewis-nicol-daniel-gayden-duo",
@@ -491,9 +469,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/the-delivery-boy-eric-solitude-mahal-slick-june-04-2026-691199",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-04-omni-direct-with-dj-mukqs",
@@ -560,9 +540,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/elemantra-cartoon-graveyard-friends-june-05-2026-691200",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "cafe-mustache-2026-06-05-friday-karaoke",
@@ -664,9 +646,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/hot-girls-anxiety-patrol-speed-babes-june-06-2026-691194",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-06-dj-mukqs",
@@ -766,9 +750,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/silk-parlor-duck-jabobo-june-07-2026-712538",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-07-all-music-trivia",
@@ -835,9 +821,11 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/video-game-music-dj-night-with-equip-and-mukqs-june-08-2026-712772",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-09-afloat-memory-gardens-one-armed-boxer-background-character",
@@ -851,9 +839,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/afloat-memory-gardens-one-armed-boxer-background-character-june-09-2026-691202",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-09-relax-attack-jazz-series-andrew-lawrence-trio",
@@ -903,9 +893,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$18",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/ghost-tears-mortlach-thronos-tx-enchanted-helm-june-11-2026-691206",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-11-omni-direct-with-dj-mukqs",
@@ -969,9 +961,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/mouthful-daarling-thro-june-12-2026-691203",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-12-open-world-dj-set-with-hima-ji",
@@ -1019,9 +1013,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comfort-kills-roseli-dead-petal-june-13-2026-691204",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-13-sean-tanktop",
@@ -1085,9 +1081,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/origami-ghosts-persian-cowboy-sound-image-june-14-2026-705131",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "owl-2026-06-14-all-music-trivia",
@@ -1135,9 +1133,11 @@
     "timezone": "America/Chicago",
     "type": "other",
     "price": "$18",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/perfect-mash-a-dating-show-june-16-2026-691201",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-16-relax-attack-jazz-series-interim-assassin",
@@ -1187,9 +1187,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/jessica-ever-record-release-show-ft-cloud-houses-and-sick-day-june-18-2026-691205",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-19-sun-not-yellow-disaster-kid-dogcatcher",
@@ -1203,9 +1205,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/sun-not-yellow-disaster-kid-dogcatcher-june-19-2026-691207",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-19-buen-viaje-june-2026-edition",
@@ -1237,9 +1241,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$46",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/r-burlesque-unplugged-a-black-ass-live-band-show-june-20-2026-691209",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-20-dj-john-simmons-june-2026-edition",
@@ -1269,11 +1275,13 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/missspoken-june-22-2026-692107",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-23-flickers-from-the-fen-uk-apoxupon-tx-tree-gardener-mn",
@@ -1287,9 +1295,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/flickers-from-the-fen-uk-apoxupon-tx-tree-gardener-mn-june-23-2026-695973",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-24-relax-attack-jazz-series-clif-wallace-dj-set-june-2026-edition",
@@ -1321,9 +1331,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$18",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/eliy-orcko-mohawk-johnson-the-beloved-davida-june-25-2026-691208",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-26-sports-radio-mourning-star-the-violet-hearts-fantombs",
@@ -1337,9 +1349,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/sports-radio-mourning-star-the-violet-hearts-fantombs-june-26-2026-691214",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-27-joey-aich-foris-fury-dom-deshawn",
@@ -1353,9 +1367,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/joey-aich-foris-fury-dom-deshawn-june-27-2026-691213",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-28-farseek-life-looks-good-tommy-kessler",
@@ -1369,9 +1385,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/farseek-life-looks-good-tommy-kessler-june-28-2026-691221",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-06-29-horsetail-josie-s-ladder-noah-roth-dutch-cove",
@@ -1385,9 +1403,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/horsetail-josie-s-ladder-noah-roth-dutch-cove-june-29-2026-712551",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "whistler-2026-06-30-i-ve-created-a-thing-that-will-never-bring-me-pleasure-a-poetry-reading",
@@ -1419,9 +1439,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/mystee-co-stanza-xyta-july-02-2026-691211",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-03-the-whiskey-charmers-the-devil-said-jump-marirose-rueth",
@@ -1435,9 +1457,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/the-whiskey-charmers-the-devil-said-jump-marirose-rueth-july-03-2026-691222",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-05-durtnap-baldilocks-mictlan",
@@ -1451,9 +1475,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/durtnap-baldilocks-mictlan-july-05-2026-691212",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-07-valley-porno-people-hither-laliberte",
@@ -1467,9 +1493,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/valley-porno-people-hither-laliberte-july-07-2026-691210",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-09-cocojoey-anita-velveeta-blind-equation",
@@ -1483,9 +1511,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$18",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/cocojoey-anita-velveeta-blind-equation-july-09-2026-691228",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-10-blucone-la-rosa-noir-nothing-but-silence",
@@ -1499,9 +1529,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/blucone-la-rosa-noir-nothing-but-silence-july-10-2026-691230",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-11-dan-gauguin-band-ovef-ow-lil-davy",
@@ -1515,9 +1547,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$18",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/dan-gauguin-band-ovef-ow-lil-davy-july-11-2026-691224",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-13-vgm-night",
@@ -1531,9 +1565,11 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/vgm-night-july-13-2026-691216",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-16-madame-reaper-hex-toy-hip-martyr",
@@ -1547,9 +1583,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/madame-reaper-hex-toy-hip-martyr-july-16-2026-691218",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-17-chandra-cryoflove-birdsong",
@@ -1563,9 +1601,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/chandra-cryoflove-birdsong-july-17-2026-691225",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-19-dorio-smooie-plush-crush",
@@ -1579,9 +1619,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/dorio-smooie-plush-crush-july-19-2026-691227",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-24-m-a-d-presents-argo-and-the-violet-queens-mellow-honey-model-cars-metalliques",
@@ -1595,9 +1637,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/m-a-d-presents-argo-and-the-violet-queens-mellow-honey-model-cars-metalliques-july-24-2026-691220",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   },
   {
     "id": "coles-2026-07-27-missspoken",
@@ -1609,10 +1653,12 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "ages 21+"
+    ],
     "source_url": "https://colesbarchicago.com/shows/missspoken-july-27-2026-691239",
-    "scraped_at": "2026-05-28T21:57:21Z"
+    "scraped_at": "2026-05-29T21:53:00Z"
   }
 ]
