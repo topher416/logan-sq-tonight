@@ -1,59 +1,5 @@
 [
   {
-    "id": "owl-2026-06-17-omni-direct-with-dj-mukqs",
-    "venue_id": "owl",
-    "venue_name": "The Owl",
-    "title": "Omni Direct with DJ Mukqs",
-    "description": null,
-    "date": "2026-06-17",
-    "time_start": "20:00",
-    "time_end": "23:00",
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-06-16T22:13:41Z"
-  },
-  {
-    "id": "cafe-mustache-2026-06-17-wax-on-vinyl-djs",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Wax On! Vinyl DJs",
-    "description": "feat. Robert Buchholz, Jean Scott, Jamie Mayberry, Suzy Q, DJ Herbal T, Glenn Russell, Akumal",
-    "date": "2026-06-17",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "dj",
-    "price": null,
-    "tags": [
-      "vinyl",
-      "dj set"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
-    "id": "coles-2026-06-18-jessica-ever-record-release-show-ft-cloud-houses-and-sick-day",
-    "venue_id": "coles",
-    "venue_name": "Coles Bar",
-    "title": "Jessica Ever Record Release Show ft. Cloud Houses and Sick Day",
-    "description": null,
-    "date": "2026-06-18",
-    "time_start": "21:00",
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": "$16",
-    "tags": [
-      "record release",
-      "live music"
-    ],
-    "source_url": "https://colesbarchicago.com/shows/jessica-ever-record-release-show-ft-cloud-houses-and-sick-day-june-18-2026-691205",
-    "scraped_at": "2026-06-18T22:12:04Z"
-  },
-  {
     "id": "owl-2026-06-18-country-night",
     "venue_id": "owl",
     "venue_name": "The Owl",
@@ -68,6 +14,24 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-06-16T22:13:41Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-18-bark-bark-bite-vicious-standup",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "BARK BARK BITE ~ Vicious Standup",
+    "description": "feat. Sarah Joy Adler, Emilia Barrosse, Lizzie Kaniecki, Taylor Meredith, Mantra \u2014 drag performance by Femme de Violette, presented by Slugface Productions",
+    "date": "2026-06-18",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "comedy",
+    "price": null,
+    "tags": [
+      "drag"
+    ],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-18-clu-b-rat-featuring-veri-peri-and-el-gato",
@@ -88,26 +52,6 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-18-bark-bark-bite-vicious-standup",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "BARK BARK BITE ~ Vicious Standup",
-    "description": "feat. Sarah Joy Adler, Emilia Barrosse, Lizzie Kaniecki, Taylor Meredith, Mantra \u2014 drag performance by Femme de Violette, presented by Slugface Productions",
-    "date": "2026-06-18",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "comedy",
-    "price": null,
-    "tags": [
-      "comedy",
-      "drag",
-      "standup"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "coles-2026-06-19-sun-not-yellow-disaster-kid-dogcatcher",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -123,7 +67,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/sun-not-yellow-disaster-kid-dogcatcher-june-19-2026-691207",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "cafe-mustache-2026-06-19-friday-karaoke",
@@ -137,11 +81,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "owl-2026-06-19-open-world-dj-set-with-hima-ji",
@@ -158,6 +100,25 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-06-16T22:13:41Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-19-it-s-sh-time-chicago-a-live-filmed-experience-juneteenth-celebration",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "It's Sh\u014dTime Chicago! A Live Filmed Experience & Juneteenth Celebration",
+    "description": "feat. Be Savage, Kwamin Marshall, Woof, Zeetus Lapetus \u2014 hosted by Sh\u014d Daniels",
+    "date": "2026-06-19",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "music",
+    "price": null,
+    "tags": [
+      "Juneteenth",
+      "filmed"
+    ],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-19-buen-viaje-june-2026-edition",
@@ -178,25 +139,6 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-19-it-s-sh-time-chicago-a-live-filmed-experience-juneteenth-celebration",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "It's Sh\u014dTime Chicago! A Live Filmed Experience & Juneteenth Celebration",
-    "description": "feat. Be Savage, Kwamin Marshall, Woof, Zeetus Lapetus \u2014 hosted by Sh\u014d Daniels",
-    "date": "2026-06-19",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "live music",
-      "filmed event"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "cafe-mustache-2026-06-20-saturday-karaoke",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
@@ -208,11 +150,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "coles-2026-06-20-r-burlesque-unplugged-a-black-ass-live-band-show",
@@ -231,7 +171,7 @@
       "burlesque"
     ],
     "source_url": "https://colesbarchicago.com/shows/r-burlesque-unplugged-a-black-ass-live-band-show-june-20-2026-691209",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-06-20-sean-tanktop",
@@ -248,6 +188,22 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-06-16T22:13:41Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-20-open-decks",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "Open Decks",
+    "description": "w/ Brendan & You",
+    "date": "2026-06-20",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "dj",
+    "price": null,
+    "tags": [],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-20-dj-john-simmons-june-2026-edition",
@@ -268,23 +224,23 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-20-open-decks",
+    "id": "cafe-mustache-2026-06-21-sunday-brunch-with-dj-jivan-ivan",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
-    "title": "Open Decks",
-    "description": "w/ Brendan & You",
-    "date": "2026-06-20",
-    "time_start": null,
-    "time_end": null,
+    "title": "Sunday Brunch with DJ Jivan Ivan",
+    "description": "w/ DJ Jivan Ivan",
+    "date": "2026-06-21",
+    "time_start": "12:00",
+    "time_end": "16:00",
     "timezone": "America/Chicago",
-    "type": "dj",
+    "type": "other",
     "price": null,
     "tags": [
-      "dj set",
-      "open decks"
+      "brunch",
+      "DJ"
     ],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "owl-2026-06-21-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -314,11 +270,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "owl-2026-06-21-all-music-trivia",
@@ -355,25 +309,6 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-21-sunday-brunch",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Sunday Brunch",
-    "description": "w/ DJ Jivan Ivan",
-    "date": "2026-06-21",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "brunch",
-      "dj"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "coles-2026-06-22-missspoken",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -383,11 +318,13 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "other",
+    "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/missspoken-june-22-2026-692107",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-06-22-omni-direct-with-dj-mukqs",
@@ -417,11 +354,9 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "live music"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "coles-2026-06-23-flickers-from-the-fen-uk-apoxupon-tx-tree-gardener-mn",
@@ -439,7 +374,23 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/flickers-from-the-fen-uk-apoxupon-tx-tree-gardener-mn-june-23-2026-695973",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-23-bluesphere-werp-alice-avery",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "Bluesphere, Werp, Alice Avery",
+    "description": null,
+    "date": "2026-06-23",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "music",
+    "price": null,
+    "tags": [],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-23-tromblau-all-the-friends-birthday-celebration",
@@ -460,24 +411,6 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-23-bluesphere-werp-alice-avery",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Bluesphere, Werp, Alice Avery",
-    "description": null,
-    "date": "2026-06-23",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "live music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "coles-2026-06-24-comedy-open-mic",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -493,7 +426,23 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-june-24-2026-717958",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-24-jonah-why-spider-baby-sweet-thorns",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "Jonah Why, Spider Baby, Sweet Thorns",
+    "description": null,
+    "date": "2026-06-24",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "music",
+    "price": null,
+    "tags": [],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-24-relax-attack-jazz-series-clif-wallace-dj-set-june-2026-edition",
@@ -512,24 +461,6 @@
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-clif-wallace-june-2026",
     "scraped_at": "2026-06-18T22:11:21Z"
-  },
-  {
-    "id": "cafe-mustache-2026-06-24-jonah-why-spider-baby-sweet-thorns",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Jonah Why, Spider Baby, Sweet Thorns",
-    "description": null,
-    "date": "2026-06-24",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "live music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
   },
   {
     "id": "owl-2026-06-25-tassels-and-tunes-burlesque-show",
@@ -562,8 +493,8 @@
     "tags": [
       "live music"
     ],
-    "source_url": "https://colesbarchicago.com/shows/eliy-orcko-mohawk-johnson-the-beloved-davida-erech-bruch-june-25-2026-691208",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "source_url": "https://colesbarchicago.com/shows/eliy-orcko-mohawk-johnson-the-beloved-davida-june-25-2026-691208",
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-06-25-crazy-bingo-with-e",
@@ -580,6 +511,22 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-06-16T22:13:41Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-25-genius-night-a-night-for-geniuses",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "Genius Night: A Night For Geniuses",
+    "description": "Produced by Tom Harrison and Josh Watkins",
+    "date": "2026-06-25",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-25-prosperity-room-june-2026-edition",
@@ -600,24 +547,6 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-25-genius-night-a-night-for-geniuses",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Genius Night: A Night For Geniuses",
-    "description": "Produced by Tom Harrison and Josh Watkins",
-    "date": "2026-06-25",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [
-      "event"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "coles-2026-06-26-sports-radio-mourning-star-the-violet-hearts-fantombs",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -633,7 +562,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/sports-radio-mourning-star-the-violet-hearts-fantombs-june-26-2026-691214",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "cafe-mustache-2026-06-26-friday-karaoke",
@@ -647,11 +576,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "owl-2026-06-26-open-world-dj-set-with-hima-ji",
@@ -668,6 +595,22 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-06-16T22:13:41Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-26-the-honey-beat-cass-cwik-constantine",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "The Honey Beat, Cass Cwik, Constantine",
+    "description": null,
+    "date": "2026-06-26",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "music",
+    "price": null,
+    "tags": [],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-26-dj-chico-june-2026-edition",
@@ -688,24 +631,6 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-26-the-honey-beat-cass-cwik-constantine",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "The Honey Beat, Cass Cwik, Constantine",
-    "description": null,
-    "date": "2026-06-26",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "live music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "cafe-mustache-2026-06-27-saturday-karaoke",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
@@ -717,11 +642,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "coles-2026-06-27-joey-aich-foris-fury-dom-deshawn",
@@ -739,7 +662,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/joey-aich-foris-fury-dom-deshawn-june-27-2026-691213",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-06-27-sean-tanktop",
@@ -756,6 +679,25 @@
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
     "scraped_at": "2026-06-16T22:13:41Z"
+  },
+  {
+    "id": "cafe-mustache-2026-06-27-haus-of-alternative-drag-extravaganza",
+    "venue_id": "cafe-mustache",
+    "venue_name": "Cafe Mustache",
+    "title": "Haus of *** Alternative Drag Extravaganza",
+    "description": null,
+    "date": "2026-06-27",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [
+      "drag",
+      "alternative"
+    ],
+    "source_url": "https://cafemustache.com",
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "whistler-2026-06-27-raging-opossum-press-in-conversation-with-adam-galanski-de-leon",
@@ -776,23 +718,22 @@
     "scraped_at": "2026-06-18T22:11:21Z"
   },
   {
-    "id": "cafe-mustache-2026-06-27-haus-of-alternative-drag-extravaganza",
+    "id": "cafe-mustache-2026-06-28-sunday-brunch",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
-    "title": "Haus of *** Alternative Drag Extravaganza",
+    "title": "Sunday Brunch",
     "description": null,
-    "date": "2026-06-27",
-    "time_start": null,
-    "time_end": null,
+    "date": "2026-06-28",
+    "time_start": "12:00",
+    "time_end": "16:00",
     "timezone": "America/Chicago",
     "type": "other",
     "price": null,
     "tags": [
-      "drag",
-      "performance"
+      "brunch"
     ],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "coles-2026-06-28-queer-art-show-for-pride-3pm-8pm",
@@ -811,7 +752,7 @@
       "pride"
     ],
     "source_url": "https://colesbarchicago.com/shows/queer-art-show-for-pride-3pm-8pm-june-28-2026-717857",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-06-28-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -841,11 +782,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
+    "scraped_at": "2026-06-19T21:11:22Z"
   },
   {
     "id": "coles-2026-06-28-farseek-life-looks-good-tommy-kessler",
@@ -863,7 +802,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/farseek-life-looks-good-tommy-kessler-june-28-2026-691221",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-06-28-all-music-trivia",
@@ -882,24 +821,6 @@
     "scraped_at": "2026-06-16T22:13:41Z"
   },
   {
-    "id": "cafe-mustache-2026-06-28-sunday-brunch",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Sunday Brunch",
-    "description": null,
-    "date": "2026-06-28",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "brunch"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-18T22:11:30Z"
-  },
-  {
     "id": "coles-2026-06-29-horsetail-josie-s-ladder-noah-roth-dutch-cove",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -915,7 +836,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/horsetail-josie-s-ladder-noah-roth-dutch-cove-june-29-2026-712551",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-06-30-rowshambow",
@@ -933,7 +854,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/rowshambow-june-30-2026-714125",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "whistler-2026-06-30-i-ve-created-a-thing-that-will-never-bring-me-pleasure-a-poetry-reading",
@@ -969,7 +890,7 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-july-01-2026-717971",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "whistler-2026-07-01-neon-night-mic-july-2026-edition",
@@ -1005,7 +926,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/mystee-co-stanza-xyta-july-02-2026-691211",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-02-omni-direct-with-dj-mukqs",
@@ -1030,7 +951,7 @@
     "title": "HERMIT KNIGHT, PHRANICK, MORS VITAQUE (early show)",
     "description": null,
     "date": "2026-07-03",
-    "time_start": "18:00",
+    "time_start": "17:30",
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "music",
@@ -1039,7 +960,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/hermit-knight-phranick-mors-vitaque-early-show-july-03-2026-718227",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-03-the-whiskey-charmers-the-devil-said-jump-marirose-rueth",
@@ -1057,7 +978,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/the-whiskey-charmers-the-devil-said-jump-marirose-rueth-july-03-2026-691222",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-03-open-world-dj-set-with-hima-ji",
@@ -1139,7 +1060,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/durtnap-baldilocks-mictlan-july-05-2026-691212",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-05-all-music-trivia",
@@ -1173,7 +1094,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/raging-opossum-press-presents-yin-waster-boyce-delles-chaepter-july-06-2026-716865",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-07-valley-porno-people-hither-laliberte",
@@ -1191,7 +1112,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/valley-porno-people-hither-laliberte-july-07-2026-691210",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-08-comedy-open-mic",
@@ -1209,7 +1130,7 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-july-08-2026-717968",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-09-omni-direct-with-dj-mukqs",
@@ -1243,7 +1164,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/cocojoey-anita-velveeta-blind-equation-july-09-2026-691228",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-09-crazy-bingo-with-e",
@@ -1277,7 +1198,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/blucone-la-rosa-noir-nothing-but-silence-july-10-2026-691230",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-10-open-world-dj-set-with-hima-ji",
@@ -1311,7 +1232,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/dan-gauguin-band-ovef-ow-lil-davy-july-11-2026-691224",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-11-sean-tanktop",
@@ -1377,7 +1298,7 @@
       "video game music"
     ],
     "source_url": "https://colesbarchicago.com/shows/vgm-night-july-13-2026-691216",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-15-comedy-open-mic",
@@ -1395,7 +1316,7 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-july-15-2026-717970",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "owl-2026-07-15-omni-direct-with-dj-mukqs",
@@ -1429,7 +1350,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/madame-reaper-hex-toy-hip-martyr-july-16-2026-691218",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-17-chandra-cryoflove-birdsong",
@@ -1447,7 +1368,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/chandra-cryoflove-birdsong-july-17-2026-691225",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-19-dorio-smooie-plush-crush",
@@ -1465,7 +1386,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/dorio-smooie-plush-crush-july-19-2026-691227",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "whistler-2026-07-19-lagos-improvisational-aesthetics",
@@ -1501,7 +1422,7 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-july-22-2026-717969",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-24-m-a-d-presents-argo-and-the-violet-queens-mellow-honey-model-cars-metalliques",
@@ -1519,7 +1440,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/m-a-d-presents-argo-and-the-violet-queens-mellow-honey-model-cars-metalliques-july-24-2026-691220",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-27-missspoken",
@@ -1531,11 +1452,13 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "other",
+    "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/missspoken-july-27-2026-691239",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-07-29-comedy-open-mic",
@@ -1553,7 +1476,7 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-july-29-2026-717972",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-08-02-kaycie-satterfield-morpho-jane-hobson",
@@ -1571,7 +1494,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/kaycie-satterfield-morpho-jane-hobson-august-02-2026-712553",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-08-05-comedy-open-mic",
@@ -1589,7 +1512,7 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-august-05-2026-717973",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-08-07-ktwheels-sun-queen-tiffy",
@@ -1607,7 +1530,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/ktwheels-sun-queen-tiffy-august-07-2026-691236",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-08-08-them-in-uniform-sunday-cruise-woonds",
@@ -1625,7 +1548,7 @@
       "live music"
     ],
     "source_url": "https://colesbarchicago.com/shows/them-in-uniform-sunday-cruise-woonds-august-08-2026-691237",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
     "id": "coles-2026-08-12-comedy-open-mic",
@@ -1643,13 +1566,13 @@
       "open mic"
     ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-august-12-2026-717976",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "scraped_at": "2026-06-19T21:12:00Z"
   },
   {
-    "id": "coles-2026-08-15-kennel-master-gloamwalker-mortlach",
+    "id": "coles-2026-08-15-kennel-master-gloamwalker-desolation-plains",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
-    "title": "Kennel Master, Gloamwalker, Mortlach",
+    "title": "Kennel Master, Gloamwalker, Desolation Plains",
     "description": null,
     "date": "2026-08-15",
     "time_start": "18:00",
@@ -1660,7 +1583,25 @@
     "tags": [
       "live music"
     ],
-    "source_url": "https://colesbarchicago.com/shows/kennel-master-gloamwalker-mortlach-august-15-2026-691242",
-    "scraped_at": "2026-06-18T22:12:04Z"
+    "source_url": "https://colesbarchicago.com/shows/kennel-master-gloamwalker-desolation-plains-august-15-2026-691242",
+    "scraped_at": "2026-06-19T21:12:00Z"
+  },
+  {
+    "id": "coles-2026-08-18-perfect-mash-a-dating-show",
+    "venue_id": "coles",
+    "venue_name": "Coles Bar",
+    "title": "Perfect Mash: A Dating Show",
+    "description": null,
+    "date": "2026-08-18",
+    "time_start": "21:00",
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": "$18",
+    "tags": [
+      "dating show"
+    ],
+    "source_url": "https://colesbarchicago.com/shows/perfect-mash-a-dating-show-august-18-2026-691244",
+    "scraped_at": "2026-06-19T21:12:00Z"
   }
 ]
