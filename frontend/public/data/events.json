@@ -1,57 +1,5 @@
 [
   {
-    "id": "owl-2026-06-18-country-night",
-    "venue_id": "owl",
-    "venue_name": "The Owl",
-    "title": "Country Night",
-    "description": null,
-    "date": "2026-06-18",
-    "time_start": "23:00",
-    "time_end": "04:00",
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-06-16T22:13:41Z"
-  },
-  {
-    "id": "cafe-mustache-2026-06-18-bark-bark-bite-vicious-standup",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "BARK BARK BITE ~ Vicious Standup",
-    "description": "feat. Sarah Joy Adler, Emilia Barrosse, Lizzie Kaniecki, Taylor Meredith, Mantra \u2014 drag performance by Femme de Violette, presented by Slugface Productions",
-    "date": "2026-06-18",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "comedy",
-    "price": null,
-    "tags": [
-      "drag"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-19T21:11:22Z"
-  },
-  {
-    "id": "whistler-2026-06-18-clu-b-rat-featuring-veri-peri-and-el-gato",
-    "venue_id": "whistler",
-    "venue_name": "The Whistler",
-    "title": "Clu(b)rat - featuring Veri Peri and El Gato",
-    "description": "hyper-pop, pop-club edits + more",
-    "date": "2026-06-18",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "dj",
-    "price": null,
-    "tags": [
-      "Thursday"
-    ],
-    "source_url": "https://whistlerchicago.com/events/clubrat-june-2026",
-    "scraped_at": "2026-06-18T22:11:21Z"
-  },
-  {
     "id": "coles-2026-06-19-sun-not-yellow-disaster-kid-dogcatcher",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
