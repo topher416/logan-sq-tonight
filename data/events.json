@@ -1,85 +1,5 @@
 [
   {
-    "id": "owl-2026-06-25-tassels-and-tunes-burlesque-show",
-    "venue_id": "owl",
-    "venue_name": "The Owl",
-    "title": "Tassels and Tunes Burlesque Show",
-    "description": null,
-    "date": "2026-06-25",
-    "time_start": "19:00",
-    "time_end": "21:00",
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-06-26T21:21:04Z"
-  },
-  {
-    "id": "coles-2026-06-25-eliy-orcko-mohawk-johnson-the-beloved-davida",
-    "venue_id": "coles",
-    "venue_name": "Coles Bar",
-    "title": "Eliy Orcko, Mohawk Johnson, The Beloved Davida",
-    "description": null,
-    "date": "2026-06-25",
-    "time_start": "21:00",
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": "$18",
-    "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/eliy-orcko-mohawk-johnson-the-beloved-davida-erech-bruch-june-25-2026-691208",
-    "scraped_at": "2026-06-24T21:25:22Z"
-  },
-  {
-    "id": "owl-2026-06-25-crazy-bingo-with-e",
-    "venue_id": "owl",
-    "venue_name": "The Owl",
-    "title": "Crazy Bingo with E!",
-    "description": null,
-    "date": "2026-06-25",
-    "time_start": "23:00",
-    "time_end": "04:00",
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-06-26T21:21:04Z"
-  },
-  {
-    "id": "cafe-mustache-2026-06-25-genius-night-a-night-for-geniuses",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Genius Night: A Night For Geniuses",
-    "description": "Feat. Josh Watkins, Jitesh Jaggi, Donovan Eyre, Amy Eaton, Vi Conrad, Aggarwal, Kevin Johnson. Produced by Tom Harrison and Josh Watkins",
-    "date": "2026-06-25",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
-  },
-  {
-    "id": "whistler-2026-06-25-prosperity-room-june-2026-edition",
-    "venue_id": "whistler",
-    "venue_name": "The Whistler",
-    "title": "Prosperity Room (June 2026 Edition)",
-    "description": "RnB, Hip Hop Remixes, Afrobeats, Baile Funk, and more.",
-    "date": "2026-06-25",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "dj",
-    "price": null,
-    "tags": [],
-    "source_url": "https://whistlerchicago.com/events/prosperity-room-june-2026",
-    "scraped_at": "2026-06-24T21:24:45Z"
-  },
-  {
     "id": "coles-2026-06-26-sports-radio-mourning-star-the-violet-hearts-fantombs",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -109,7 +29,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "owl-2026-06-26-open-world-dj-set-with-hima-ji",
@@ -141,7 +61,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-06-26-dj-chico-june-2026-edition",
@@ -173,7 +93,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "coles-2026-06-27-joey-aich-foris-fury-dom-deshawn",
@@ -212,16 +132,16 @@
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
     "title": "Haus of [Redacted] Alternative Drag Extravaganza \"\u2022\u2022\u2022 Pride\"",
-    "description": "Feat. Ricky Ruff, Demme Onyx, Kerosene, Dear Jamie, True Romance",
+    "description": "feat. Ricky Ruff, Demme Onyx, Kerosene, Dear Jamie, True Romance",
     "date": "2026-06-27",
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-06-27-raging-opossum-press-in-conversation-with-adam-galanski-de-leon",
@@ -285,7 +205,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "coles-2026-06-28-farseek-life-looks-good-tommy-kessler",
@@ -333,7 +253,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-06-28-chirp-night-dj-sets-by-body-shop-billy-joel-jr-with-sotocuchis",
@@ -377,11 +297,11 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "coles-2026-06-30-rowshambow",
@@ -413,7 +333,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-06-30-i-ve-created-a-thing-that-will-never-bring-me-pleasure-a-poetry-reading",
@@ -461,7 +381,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-07-01-neon-night-mic-july-2026-edition",
@@ -525,7 +445,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-07-02-heat-sync-july-2026-edition",
@@ -573,7 +493,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "coles-2026-07-03-the-whiskey-charmers-the-devil-said-jump-marirose-rueth",
@@ -621,7 +541,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-07-03-club-sh-t-july-2026-edition",
@@ -669,7 +589,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "owl-2026-07-04-fourth-of-july",
@@ -717,7 +637,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "coles-2026-07-05-durtnap-baldilocks-mictlan",
@@ -765,7 +685,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-06-26T21:21:04Z"
+    "scraped_at": "2026-06-27T21:06:24Z"
   },
   {
     "id": "whistler-2026-07-05-sunday-service",
