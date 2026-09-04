@@ -1,39 +1,5 @@
 [
   {
-    "id": "cafe-mustache-2026-09-02-haj-friends",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Haj & Friends",
-    "description": null,
-    "date": "2026-09-02",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": null,
-    "tags": [
-      "live music"
-    ],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
-  },
-  {
-    "id": "coles-2026-09-03-numero-group-djs",
-    "venue_id": "coles",
-    "venue_name": "Coles Bar",
-    "title": "Numero Group DJs",
-    "description": null,
-    "date": "2026-09-03",
-    "time_start": "21:00",
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "dj",
-    "price": null,
-    "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/numero-group-djs-september-03-2026-747348",
-    "scraped_at": "2026-09-03T22:23:45Z"
-  },
-  {
     "id": "owl-2026-09-03-omni-direct-with-dj-mukqs",
     "venue_id": "owl",
     "venue_name": "The Owl",
@@ -47,7 +13,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-03-heat-sync-september-2026-edition",
@@ -65,7 +31,7 @@
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/heat-sync-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "cafe-mustache-2026-09-03-heart-on-the-eyes",
@@ -79,11 +45,9 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "live music"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "coles-2026-09-04-big-chemical-growing-boys-peter-hunt-the-great-outdoors",
@@ -97,9 +61,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/big-chemical-growing-boys-peter-hunt-the-great-outdoors-september-04-2026-736748",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "cafe-mustache-2026-09-04-friday-karaoke",
@@ -113,11 +79,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "owl-2026-09-04-open-world-dj-set-with-hima-ji",
@@ -133,7 +97,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-04-club-sh-t-september-2026-edition",
@@ -148,15 +112,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Friday",
-      "house",
-      "footwork",
-      "juke",
-      "jungle",
-      "drum & bass"
+      "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/club-sh-t-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "cafe-mustache-2026-09-04-thicc-lizzy-friends",
@@ -170,11 +129,9 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": null,
-    "tags": [
-      "live music"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "cafe-mustache-2026-09-05-saturday-karaoke",
@@ -188,11 +145,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "coles-2026-09-05-hardcover-lilydoll-slow-riser",
@@ -206,9 +161,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/hardcover-lilydoll-slow-riser-september-05-2026-691263",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "owl-2026-09-05-dj-mukqs",
@@ -224,7 +181,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-05-feelgood-saturday-september-2026",
@@ -239,13 +196,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Saturday",
-      "R&B",
-      "Rap",
-      "Soul"
+      "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/feelgood-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "cafe-mustache-2026-09-05-open-decks-w-brenan-you",
@@ -259,12 +213,9 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": null,
-    "tags": [
-      "dj",
-      "open decks"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "cafe-mustache-2026-09-06-sunday-karaoke",
@@ -278,11 +229,9 @@
     "timezone": "America/Chicago",
     "type": "karaoke",
     "price": null,
-    "tags": [
-      "karaoke"
-    ],
+    "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "owl-2026-09-06-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -298,7 +247,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-06-rare-cuts",
@@ -316,7 +265,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/rarecuts-sep-6",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "cafe-mustache-2026-09-06-beats-n-brunch",
@@ -331,11 +280,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "dj",
       "brunch"
     ],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-09-02T22:26:24Z"
+    "scraped_at": "2026-09-04T22:12:02Z"
   },
   {
     "id": "owl-2026-09-07-omni-direct-with-dj-mukqs",
@@ -351,7 +299,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-09-08-mouse-magazine-presents-tragic-heroine-try-a-dull-knife-plastic-peach",
@@ -365,9 +313,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/mouse-magazine-presents-tragic-heroine-try-a-dull-knife-plastic-peach-september-08-2026-736744",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-08-relax-attack-jazz-series-clif-wallace-dj-set",
@@ -382,11 +332,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Tuesday",
-      "jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/clif-wallace-dj-set-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-09-comedy-open-mic",
@@ -400,9 +349,11 @@
     "timezone": "America/Chicago",
     "type": "comedy",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "open mic"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-september-09-2026-717989",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-09-relax-attack-jazz-series-ben-branda-quartet",
@@ -417,11 +368,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Wednesday",
-      "jazz"
+      "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/ben-branda-quartet",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "owl-2026-09-10-labor-day",
@@ -437,7 +387,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-09-10-anne-helen-wells-suroor-marymary",
@@ -451,9 +401,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/anne-helen-wells-suroor-marymary-september-10-2026-728377",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "owl-2026-09-10-crazy-bingo-with-e",
@@ -469,7 +421,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-10-blesstonio-presents-fusion-september-2026-edition",
@@ -487,7 +439,7 @@
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/fusion-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-11-elijah-batson-waco-dogs-run-free",
@@ -501,9 +453,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/elijah-batson-waco-dogs-run-free-september-11-2026-733268",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "owl-2026-09-11-open-world-dj-set-with-hima-ji",
@@ -519,7 +473,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-11-printers-row-lit-fest-offsite-reading-marathon",
@@ -537,7 +491,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/printers-row-lit-fest-offsite-reading-marathon",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-12-vanhellig-mors-vitaque-mortlach",
@@ -551,9 +505,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/vanhellig-mors-vitaque-mortlach-september-12-2026-691246",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "owl-2026-09-12-sean-tanktop",
@@ -569,7 +525,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-12-all-love-september-2026-edition",
@@ -587,7 +543,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/all-love-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-13-sex-mex-won-t-stay-dead-king-sans",
@@ -601,9 +557,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$17.84",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/sex-mex-won-t-stay-dead-king-sans-september-13-2026-691248",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "owl-2026-09-13-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -619,7 +577,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-09-02T22:26:25Z"
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-13-mint-condition",
@@ -631,14 +589,13 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "dj",
     "price": null,
     "tags": [
-      "Sunday",
-      "R&B"
+      "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/mint-condition",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-14-video-game-night-with-djs-equip-mukqs",
@@ -652,9 +609,12 @@
     "timezone": "America/Chicago",
     "type": "dj",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "DJ",
+      "video game"
+    ],
     "source_url": "https://colesbarchicago.com/shows/video-game-night-with-djs-equip-mukqs-september-14-2026-745525",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-09-15-my-autumn-attic-super-brick-never-been-won-t-go",
@@ -668,9 +628,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/my-autumn-attic-super-brick-never-been-won-t-go-september-15-2026-736749",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-15-relax-attack-jazz-series-tromblau-friends-tromblau-dj-set",
@@ -682,14 +644,13 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "dj",
     "price": null,
     "tags": [
-      "Tuesday",
-      "jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/tromblau-and-friends-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-16-comedy-open-mic",
@@ -702,10 +663,28 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
+    "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-september-16-2026-717981",
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-16-omni-direct-with-dj-mukqs",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Omni Direct with DJ Mukqs",
+    "description": null,
+    "date": "2026-09-16",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "timezone": "America/Chicago",
+    "type": "other",
     "price": null,
     "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-september-16-2026-717981",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-16-chapbook-launch-with-lucy-xiang-fu-wainger",
@@ -723,7 +702,7 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/lucy-xiang-fu-wainger",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-17-brotha-josh-mel-crozby-kent-avenue-carpool",
@@ -737,9 +716,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/brotha-josh-mel-crozby-kent-avenue-carpool-september-17-2026-691249",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-17-country-night",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Country Night",
+    "description": null,
+    "date": "2026-09-17",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-17-sobelo",
@@ -754,16 +751,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Thursday",
-      "Latincore",
-      "Guaracha",
-      "Booty Bounce",
-      "Bouyon",
-      "Hardgroove",
-      "Jersey Club"
+      "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/sobelo",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-18-am-i-talking-the-front-desk-stephen-flickner",
@@ -777,9 +768,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/am-i-talking-the-front-desk-stephen-flickner-september-18-2026-736739",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-18-open-world-dj-set-with-hima-ji",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Open World DJ Set with Hima-Ji",
+    "description": null,
+    "date": "2026-09-18",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-18-buen-viaje-september-2026-edition",
@@ -794,12 +803,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Friday",
-      "balearic",
-      "house"
+      "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/buen-viaje-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-19-asaka-the-renegade-color-joel-q",
@@ -813,9 +820,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$20.93",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/asaka-the-renegade-color-joel-q-september-19-2026-736742",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-19-sean-tanktop",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Sean Tanktop",
+    "description": null,
+    "date": "2026-09-19",
+    "time_start": "22:30",
+    "time_end": "05:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-09-20-starcharm-lana-leone-baby",
@@ -829,9 +854,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/starcharm-lana-leone-baby-september-20-2026-691267",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-20-the-switch-up-with-djs-esteban-la-groue-danny-dan",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "The Switch Up: with DJs Esteban La Groue & Danny Dan",
+    "description": null,
+    "date": "2026-09-20",
+    "time_start": "22:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-20-the-black-poetry-experience",
@@ -849,7 +892,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/the-black-poetry-experience-sept-20",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-21-cole-s-bar-jam-session",
@@ -863,9 +906,12 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music",
+      "jam session"
+    ],
     "source_url": "https://colesbarchicago.com/shows/cole-s-bar-jam-session-september-21-2026-743618",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-09-22-row-sham-bow",
@@ -879,9 +925,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/row-sham-bow-september-22-2026-746438",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-22-relax-attack-jazz-series-lizzi-trumbore-quartet",
@@ -896,11 +944,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Tuesday",
-      "jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/lizzi-trumbore-quartet",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-23-comedy-open-mic",
@@ -913,10 +960,12 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": null,
-    "tags": [],
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-september-23-2026-717988",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-23-uic-off-campus-reading-series-homecoming-reading",
@@ -934,7 +983,23 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/campus-reading-series",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
+  },
+  {
+    "id": "owl-2026-09-24-omni-direct-with-dj-mukqs",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Omni Direct with DJ Mukqs",
+    "description": null,
+    "date": "2026-09-24",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-09-24-rocknite-presents",
@@ -948,9 +1013,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/rocknite-presents-september-24-2026-741454",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-24-crazy-bingo-with-e",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Crazy Bingo with E!",
+    "description": null,
+    "date": "2026-09-24",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-24-prosperity-room-september-2026-edition",
@@ -965,14 +1048,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Thursday",
-      "R&B",
-      "Hip Hop",
-      "Afrobeats",
-      "Baile Funk"
+      "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/prosperity-room-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-25-rat-johnson-persian-cowboy-waterpennies",
@@ -986,9 +1065,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/rat-johnson-persian-cowboy-waterpennies-september-25-2026-746428",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-25-open-world-dj-set-with-hima-ji",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Open World DJ Set with Hima-Ji",
+    "description": null,
+    "date": "2026-09-25",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-25-dj-chico-september-2026-edition",
@@ -1003,12 +1100,10 @@
     "type": "dj",
     "price": null,
     "tags": [
-      "Friday",
-      "groovy",
-      "dance"
+      "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/chico-sep-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-26-dravin-and-the-ravens-friendly-faces-jack-moony-the-sun-drops",
@@ -1022,9 +1117,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/dravin-and-the-ravens-friendly-faces-jack-moony-the-sun-drops-september-26-2026-691252",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-09-26-sean-tanktop",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Sean Tanktop",
+    "description": null,
+    "date": "2026-09-26",
+    "time_start": "22:30",
+    "time_end": "05:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-09-26-heavy-pressure",
@@ -1042,7 +1155,23 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/heavy-pressure",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
+  },
+  {
+    "id": "owl-2026-09-27-the-switch-up-with-djs-esteban-la-groue-danny-dan",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "The Switch Up: with DJs Esteban La Groue & Danny Dan",
+    "description": null,
+    "date": "2026-09-27",
+    "time_start": "22:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-09-28-missspoken",
@@ -1056,9 +1185,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/missspoken-september-28-2026-691250",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-09-29-ruth-theodore-damsel-sgt-starling",
@@ -1072,9 +1203,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/ruth-theodore-damsel-sgt-starling-september-29-2026-733277",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-29-relax-attack-jazz-series-olynciw-sutton-bouwsma-trio",
@@ -1089,11 +1222,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Tuesday",
-      "jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/olynciw-sutton-bouwsma-trio",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-09-30-comedy-open-mic",
@@ -1106,10 +1238,12 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": null,
-    "tags": [],
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-september-30-2026-717990",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "whistler-2026-09-30-relax-attack-jazz-series-sofia-koulouvaris-quartet",
@@ -1124,11 +1258,26 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Wednesday",
-      "jazz"
+      "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/sofia-koulouvaris-quartet-sept-2026",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
+  },
+  {
+    "id": "owl-2026-10-01-omni-direct-with-dj-mukqs",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Omni Direct with DJ Mukqs",
+    "description": null,
+    "date": "2026-10-01",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-02-good-morning-bedlam-winter-tv-sam-roethgen",
@@ -1142,9 +1291,43 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/good-morning-bedlam-winter-tv-sam-roethgen-october-02-2026-746444",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-02-open-world-dj-set-with-hima-ji",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Open World DJ Set with Hima-Ji",
+    "description": null,
+    "date": "2026-10-02",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
+  },
+  {
+    "id": "owl-2026-10-03-dj-mukqs",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "DJ Mukqs",
+    "description": null,
+    "date": "2026-10-03",
+    "time_start": "22:30",
+    "time_end": "05:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "whistler-2026-10-03-b-side-editions-presents-errand-weather-by-nathan-dragon",
@@ -1156,13 +1339,13 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": null,
     "tags": [
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/errand-weather",
-    "scraped_at": "2026-09-03T22:22:56Z"
+    "scraped_at": "2026-09-04T22:12:59Z"
   },
   {
     "id": "coles-2026-10-04-origami-summer-gunk-lung",
@@ -1176,9 +1359,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/origami-summer-gunk-lung-october-04-2026-746442",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-04-the-switch-up-with-djs-esteban-la-groue-danny-dan",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "The Switch Up: with DJs Esteban La Groue & Danny Dan",
+    "description": null,
+    "date": "2026-10-04",
+    "time_start": "22:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-07-comedy-open-mic",
@@ -1191,10 +1392,28 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
+    "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-october-07-2026-717984",
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-08-omni-direct-with-dj-mukqs",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Omni Direct with DJ Mukqs",
+    "description": null,
+    "date": "2026-10-08",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "timezone": "America/Chicago",
+    "type": "other",
     "price": null,
     "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-october-07-2026-717984",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-08-the-scummies-sparkling-urbana-color-to-use",
@@ -1208,9 +1427,43 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/the-scummies-sparkling-urbana-color-to-use-october-08-2026-736747",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-08-crazy-bingo-with-e",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Crazy Bingo with E!",
+    "description": null,
+    "date": "2026-10-08",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
+  },
+  {
+    "id": "owl-2026-10-09-open-world-dj-set-with-hima-ji",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Open World DJ Set with Hima-Ji",
+    "description": null,
+    "date": "2026-10-09",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-10-blind-season-palmer-hoverboard",
@@ -1224,9 +1477,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/blind-season-palmer-hoverboard-october-10-2026-745312",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-10-sean-tanktop",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Sean Tanktop",
+    "description": null,
+    "date": "2026-10-10",
+    "time_start": "22:30",
+    "time_end": "05:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-11-biitchseat-empty-heaven-molly-o-malley",
@@ -1240,9 +1511,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$15.77",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/biitchseat-empty-heaven-molly-o-malley-october-11-2026-745301",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-11-the-switch-up-with-djs-esteban-la-groue-danny-dan",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "The Switch Up: with DJs Esteban La Groue & Danny Dan",
+    "description": null,
+    "date": "2026-10-11",
+    "time_start": "22:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
+    "price": null,
+    "tags": [],
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-13-rocknite-presents",
@@ -1256,9 +1545,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/rocknite-presents-october-13-2026-741457",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-14-comedy-open-mic",
@@ -1271,10 +1562,28 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
+    "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-october-14-2026-717995",
+    "scraped_at": "2026-09-04T22:12:34Z"
+  },
+  {
+    "id": "owl-2026-10-15-omni-direct-with-dj-mukqs",
+    "venue_id": "owl",
+    "venue_name": "The Owl",
+    "title": "Omni Direct with DJ Mukqs",
+    "description": null,
+    "date": "2026-10-15",
+    "time_start": "23:00",
+    "time_end": "04:00",
+    "timezone": "America/Chicago",
+    "type": "other",
     "price": null,
     "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-october-14-2026-717995",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "source_url": "https://www.owlbarchicago.com/upcomingevents",
+    "scraped_at": "2026-09-04T22:11:44Z"
   },
   {
     "id": "coles-2026-10-20-perfect-mash-a-dating-show",
@@ -1288,9 +1597,11 @@
     "timezone": "America/Chicago",
     "type": "other",
     "price": "$18",
-    "tags": [],
+    "tags": [
+      "dating show"
+    ],
     "source_url": "https://colesbarchicago.com/shows/perfect-mash-a-dating-show-october-20-2026-691257",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-21-comedy-open-mic",
@@ -1303,10 +1614,12 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": null,
-    "tags": [],
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-october-21-2026-717987",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-22-road-to-glds-the-oracle-mortlach-terran-wretch",
@@ -1320,9 +1633,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/road-to-glds-the-oracle-mortlach-terran-wretch-october-22-2026-691271",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-23-glimmer-daarling-bursting",
@@ -1336,9 +1651,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/glimmer-daarling-bursting-october-23-2026-691258",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-26-missspoken",
@@ -1352,9 +1669,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [],
+    "tags": [
+      "live music"
+    ],
     "source_url": "https://colesbarchicago.com/shows/missspoken-october-26-2026-691264",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-28-comedy-open-mic",
@@ -1367,10 +1686,12 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": null,
-    "tags": [],
+    "price": "free",
+    "tags": [
+      "open mic"
+    ],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-october-28-2026-717983",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   },
   {
     "id": "coles-2026-10-31-talker-ok-cool-snowcuffs-dj-atlas-aurora",
@@ -1384,8 +1705,11 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "$16",
-    "tags": [],
+    "tags": [
+      "live music",
+      "DJ"
+    ],
     "source_url": "https://colesbarchicago.com/shows/talker-ok-cool-snowcuffs-dj-atlas-aurora-october-31-2026-728424",
-    "scraped_at": "2026-09-03T22:23:45Z"
+    "scraped_at": "2026-09-04T22:12:34Z"
   }
 ]
