@@ -1,55 +1,5 @@
 [
   {
-    "id": "owl-2026-11-18-omni-direct-with-dj-mukqs",
-    "venue_id": "owl",
-    "venue_name": "The Owl",
-    "title": "Omni Direct with DJ Mukqs",
-    "description": null,
-    "date": "2026-11-18",
-    "time_start": "20:00",
-    "time_end": "23:00",
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [],
-    "source_url": "https://www.owlbarchicago.com/upcomingevents",
-    "scraped_at": "2026-11-20T01:42:26Z"
-  },
-  {
-    "id": "cafe-mustache-2026-11-18-wax-on",
-    "venue_id": "cafe-mustache",
-    "venue_name": "Cafe Mustache",
-    "title": "Wax On!",
-    "description": null,
-    "date": "2026-11-18",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "other",
-    "price": null,
-    "tags": [],
-    "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
-  },
-  {
-    "id": "coles-2026-11-19-rocknite-presents-lace-for-leisure-credit-card-lemon-chrome",
-    "venue_id": "coles",
-    "venue_name": "Coles Bar",
-    "title": "rocknite presents! Lace for Leisure / Credit Card / Lemon Chrome",
-    "description": null,
-    "date": "2026-11-19",
-    "time_start": "20:00",
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "music",
-    "price": "free",
-    "tags": [
-      "rock"
-    ],
-    "source_url": "https://colesbarchicago.com/shows/rocknite-presents-november-19-2026-741460",
-    "scraped_at": "2026-11-20T01:41:45Z"
-  },
-  {
     "id": "owl-2026-11-19-country-night",
     "venue_id": "owl",
     "venue_name": "The Owl",
@@ -66,24 +16,6 @@
     "scraped_at": "2026-11-20T01:42:26Z"
   },
   {
-    "id": "whistler-2026-11-19-brinka-brinka",
-    "venue_id": "whistler",
-    "venue_name": "The Whistler",
-    "title": "BRINKA-BRINKA",
-    "description": "Brinka-Brinka highlights artists that specialize in genre-fusion. DJs mix modern and diasporic sounds.",
-    "date": "2026-11-19",
-    "time_start": null,
-    "time_end": null,
-    "timezone": "America/Chicago",
-    "type": "dj",
-    "price": null,
-    "tags": [
-      "Thursday"
-    ],
-    "source_url": "https://whistlerchicago.com/events/brinka-brinka-11-19",
-    "scraped_at": "2026-11-20T01:42:12Z"
-  },
-  {
     "id": "cafe-mustache-2026-11-19-not-a-chess-club",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
@@ -97,7 +29,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
+    "scraped_at": "2026-11-21T01:08:27Z"
   },
   {
     "id": "coles-2026-11-20-the-last-living-finch-fighting-island-future-nest",
@@ -113,7 +45,7 @@
     "price": "$16",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/pr-the-last-living-finch-fighting-island-future-nest-november-20-2026-750880",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "cafe-mustache-2026-11-20-friday-karaoke",
@@ -129,7 +61,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
+    "scraped_at": "2026-11-21T01:08:27Z"
   },
   {
     "id": "owl-2026-11-20-open-world-dj-set-with-hima-ji",
@@ -163,7 +95,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/buen-viaje-sept-2026-793pr",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "cafe-mustache-2026-11-20-it-s-sh-time-chicago",
@@ -179,7 +111,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
+    "scraped_at": "2026-11-21T01:08:27Z"
   },
   {
     "id": "whistler-2026-11-21-chicago-review-a-poetry-reading",
@@ -189,7 +121,7 @@
     "description": "The Chicago Review presents a poetry reading with Cynthia Cruz, Sara Nicholson, and Martin Corless-Smith. Doors at 6. Reading at 7.",
     "date": "2026-11-21",
     "time_start": "18:00",
-    "time_end": null,
+    "time_end": "19:00",
     "timezone": "America/Chicago",
     "type": "literary",
     "price": null,
@@ -197,7 +129,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/chicago-review-nov26",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "cafe-mustache-2026-11-21-saturday-karaoke",
@@ -213,7 +145,7 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
+    "scraped_at": "2026-11-21T01:08:27Z"
   },
   {
     "id": "coles-2026-11-21-wht-rbbt-obj-lady-loomis-rana",
@@ -229,7 +161,7 @@
     "price": "$16",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/wht-rbbt-obj-lady-loomis-rana-november-21-2026-750877",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-11-21-sean-tanktop",
@@ -257,19 +189,19 @@
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "dj",
+    "type": "other",
     "price": null,
     "tags": [
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/genre-fluid-nov-2026",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
-    "id": "cafe-mustache-2026-11-22-sunday-brunch-with-dj-maude-atlas",
+    "id": "cafe-mustache-2026-11-22-sunday-brunch-w-dj-maude-atlas",
     "venue_id": "cafe-mustache",
     "venue_name": "Cafe Mustache",
-    "title": "Sunday Brunch with DJ Maude Atlas",
+    "title": "Sunday Brunch (w/ DJ Maude Atlas)",
     "description": null,
     "date": "2026-11-22",
     "time_start": "12:00",
@@ -278,10 +210,11 @@
     "type": "other",
     "price": null,
     "tags": [
-      "brunch"
+      "brunch",
+      "dj"
     ],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
+    "scraped_at": "2026-11-21T01:08:27Z"
   },
   {
     "id": "cafe-mustache-2026-11-22-sunday-karaoke",
@@ -297,13 +230,13 @@
     "price": null,
     "tags": [],
     "source_url": "https://cafemustache.com",
-    "scraped_at": "2026-11-20T01:42:26Z"
+    "scraped_at": "2026-11-21T01:08:27Z"
   },
   {
-    "id": "coles-2026-11-22-",
+    "id": "coles-2026-11-22-oldies-night",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
-    "title": "\ud835\udcde\ud835\udcf5\ud835\udced\ud835\udcf2\ud835\udcee\ud835\udcfc \ud835\udcdd\ud835\udcf2\ud835\udcf0\ud835\udcf1\ud835\udcfd \ud83c\udf55",
+    "title": "Oldies Night \ud83c\udf55",
     "description": null,
     "date": "2026-11-22",
     "time_start": "20:00",
@@ -313,7 +246,7 @@
     "price": "free",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/november-22-2026-801710",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-11-22-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -347,7 +280,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/fearfuls-2026-ehns4ymmetry-",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-11-23-missspoken-crowded-house-with-annabel-condit-jill-hopkins-alba-machado-azziza-robinson",
@@ -359,11 +292,11 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
     "tags": [],
-    "source_url": "https://colesbarchicago.com/shows/missspoken-november-30-2026-691266",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "source_url": "https://colesbarchicago.com/shows/missspoken-crowded-house-with-annabel-condit-jill-hopkins-alba-machado-azziza-robinson-november-23-2026-691266",
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-11-24-relax-attack-jazz-series-kenny-reichert-s-prairie-grass",
@@ -378,11 +311,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Tuesday",
-      "Jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-kenny-reichert",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "owl-2026-11-25-omni-direct-with-dj-mukqs",
@@ -412,11 +344,9 @@
     "timezone": "America/Chicago",
     "type": "comedy",
     "price": "free",
-    "tags": [
-      "open mic"
-    ],
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-november-25-2026-717993",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-11-25-club-s-t-special-edition",
@@ -434,7 +364,7 @@
       "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/club-s-t-blkwednov-2026-rdnt3",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "owl-2026-11-26-thanksgiving-eve",
@@ -466,7 +396,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/marty-blick-wilem-jabobo-november-27-2026-792850",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-11-27-thanksgiving-open-at-10pm",
@@ -500,7 +430,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/chico-nov-2026-5t52m",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-11-28-dead-dove-presents-algorhythm",
@@ -516,7 +446,7 @@
     "price": "$16",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/dead-dove-presents-algorhythm-november-28-2026-761841",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-11-28-sean-tanktop",
@@ -550,7 +480,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/pleasureindex-nov-2026",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "owl-2026-11-29-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -584,7 +514,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/chirp-night-nov-2026",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "whistler-2026-12-01-relax-attack-jazz-series-the-whistler-jam",
@@ -599,11 +529,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Tuesday",
-      "Jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-whisjam-dec26",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-02-comedy-open-mic",
@@ -616,12 +545,10 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": "free",
-    "tags": [
-      "open mic"
-    ],
+    "price": null,
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-december-02-2026-717986",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-12-02-relax-attack-jazz-series-polipnick-trio",
@@ -636,11 +563,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Wednesday",
-      "Jazz"
+      "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-whisjam-dec26-3pry9",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-03-keyze-arizona-linda-sol-friends",
@@ -656,7 +582,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/keyze-arizona-linda-sol-friends-december-03-2026-798943",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-03-omni-direct-with-dj-mukqs",
@@ -690,7 +616,7 @@
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/brinka-brinka-11-19-h5rp2",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-04-faceeater-suroor-durtnap",
@@ -706,7 +632,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/faceeater-suroor-durtnap-december-04-2026-757698",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-04-open-world-dj-set-with-hima-ji",
@@ -740,7 +666,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/buen-viaje-sept-2026-793pr-3edsk",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-05-plush-try-a-dull-knife-madame-de",
@@ -756,7 +682,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/plush-try-a-dull-knife-madame-de-december-05-2026-761305",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-05-dj-mukqs",
@@ -790,7 +716,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/back2print-nov26-rfggj",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "owl-2026-12-06-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -824,7 +750,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/living-listening-party-dec-2026-7mjkx",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-07-emo-happy-hour",
@@ -838,11 +764,9 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [
-      "emo"
-    ],
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/emo-happy-hour-december-07-2026-796307",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "coles-2026-12-08-rocknite-presents",
@@ -856,30 +780,27 @@
     "timezone": "America/Chicago",
     "type": "music",
     "price": "free",
-    "tags": [
-      "rock"
-    ],
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/rocknite-presents-december-08-2026-741461",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
-    "id": "whistler-2026-12-08-relax-attack-jazz-series-steve-bomar-trio",
+    "id": "whistler-2026-12-08-other-people-s-poems",
     "venue_id": "whistler",
     "venue_name": "The Whistler",
-    "title": "Relax Attack Jazz Series: Steve Bomar Trio",
-    "description": "Steve Bomar Trio",
+    "title": "OTHER PEOPLE'S POEMS",
+    "description": "Memorize and recite a poem that you did NOT write.",
     "date": "2026-12-08",
     "time_start": null,
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "literary",
     "price": null,
     "tags": [
-      "Tuesday",
-      "Jazz"
+      "Tuesday"
     ],
-    "source_url": "https://whistlerchicago.com/events/relax-attack-sbomar-9lgbh",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "source_url": "https://whistlerchicago.com/events/lit-and-luz-nov-edition-t2y9m",
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-09-comedy-open-mic",
@@ -892,12 +813,10 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": "free",
-    "tags": [
-      "open mic"
-    ],
+    "price": null,
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-december-09-2026-717982",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-12-09-relax-attack-jazz-series-john-havrilla-5tet",
@@ -912,11 +831,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Wednesday",
-      "Jazz"
+      "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-johnhavrilla-5tet",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "owl-2026-12-10-omni-direct-with-dj-mukqs",
@@ -948,7 +866,7 @@
     "price": "$16",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/sana-all-hush-now-sweet-halo-laikaa-december-10-2026-798944",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-10-crazy-bingo-with-e",
@@ -982,7 +900,7 @@
       "Thursday"
     ],
     "source_url": "https://whistlerchicago.com/events/blesstonio-nov12-p5l79",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-11-mulva-caitlin-edwards-jacob-horn-trio",
@@ -998,7 +916,7 @@
     "price": "$16",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/mulva-caitlin-edwards-jacob-horn-trio-december-11-2026-757770",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-11-open-world-dj-set-with-hima-ji",
@@ -1017,6 +935,24 @@
     "scraped_at": "2026-11-20T01:42:26Z"
   },
   {
+    "id": "whistler-2026-12-11-vibes-on-logan-presents-classics",
+    "venue_id": "whistler",
+    "venue_name": "The Whistler",
+    "title": "Vibes On Logan Presents: CLASSICS",
+    "description": "Feel-good house, disco, and dance-floor heaters all night long!",
+    "date": "2026-12-11",
+    "time_start": null,
+    "time_end": null,
+    "timezone": "America/Chicago",
+    "type": "dj",
+    "price": null,
+    "tags": [
+      "Friday"
+    ],
+    "source_url": "https://whistlerchicago.com/events/vibes-on-logan-nov132026-62tl7",
+    "scraped_at": "2026-11-21T01:09:31Z"
+  },
+  {
     "id": "coles-2026-12-12-eric-solitude-wire-mother-devani",
     "venue_id": "coles",
     "venue_name": "Coles Bar",
@@ -1030,7 +966,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/eric-solitude-wire-mother-devani-december-12-2026-750886",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-12-sean-tanktop",
@@ -1064,7 +1000,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/raging-opossum-dec26-z2995",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-13-overcoast-hopeful-utopian-violet-waves",
@@ -1080,7 +1016,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/overcoast-hopeful-utopian-violet-waves-december-13-2026-792879",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "owl-2026-12-13-the-switch-up-with-djs-esteban-la-groue-danny-dan",
@@ -1114,7 +1050,7 @@
       "Sunday"
     ],
     "source_url": "https://whistlerchicago.com/events/street-beat-sunday-oct-2026-e6hjr",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-15-perfect-mash-a-dating-show",
@@ -1130,14 +1066,14 @@
     "price": "$18",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/perfect-mash-a-dating-show-december-15-2026-691269",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-12-15-it-s-late-book-launch",
     "venue_id": "whistler",
     "venue_name": "The Whistler",
     "title": "\"It's Late\" - Book Launch",
-    "description": "It's Late Chicago Book Launch, featuring Colin Drohan and others.",
+    "description": "*It's Late* Chicago Book Launch, featuring Colin Drohan and others.",
     "date": "2026-12-15",
     "time_start": null,
     "time_end": null,
@@ -1148,7 +1084,7 @@
       "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/itslatebooklaunch-wgarf",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-16-comedy-open-mic",
@@ -1161,12 +1097,10 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": "free",
-    "tags": [
-      "open mic"
-    ],
+    "price": null,
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-december-16-2026-717994",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-12-16-relax-attack-jazz-series-synths-guaraldi-trio",
@@ -1181,11 +1115,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Wednesday",
-      "Jazz"
+      "Wednesday"
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-synths-guaraldi-trio-dec26",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-17-downside-salesman-fjord-taurus-peter-hunt-and-the-great-outdoors",
@@ -1201,7 +1134,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/downside-salesman-fjord-taurus-peter-hunt-and-the-great-outdoors-december-17-2026-792876",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-12-19-dj-john-simmons-december-2026-edition",
@@ -1219,7 +1152,7 @@
       "Friday"
     ],
     "source_url": "https://whistlerchicago.com/events/johnsimmons-oct-2026-5drag",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "whistler-2026-12-22-relax-attack-jazz-series-the-riley-martin-trio",
@@ -1234,11 +1167,10 @@
     "type": "music",
     "price": null,
     "tags": [
-      "Tuesday",
-      "Jazz"
+      "Tuesday"
     ],
     "source_url": "https://whistlerchicago.com/events/relax-attack-the-riley-martin-trio",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-23-comedy-open-mic",
@@ -1251,12 +1183,10 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": "free",
-    "tags": [
-      "open mic"
-    ],
+    "price": null,
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-december-23-2026-717980",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "whistler-2026-12-26-heavyweight-soul-w-mr-jaytoo",
@@ -1274,7 +1204,7 @@
       "Saturday"
     ],
     "source_url": "https://whistlerchicago.com/events/heavyweight-soul-feb2-anxph",
-    "scraped_at": "2026-11-20T01:42:12Z"
+    "scraped_at": "2026-11-21T01:09:31Z"
   },
   {
     "id": "coles-2026-12-28-missspoken",
@@ -1286,11 +1216,11 @@
     "time_start": "19:00",
     "time_end": null,
     "timezone": "America/Chicago",
-    "type": "music",
+    "type": "other",
     "price": "free",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/missspoken-december-28-2026-691261",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "coles-2026-12-30-comedy-open-mic",
@@ -1303,12 +1233,10 @@
     "time_end": null,
     "timezone": "America/Chicago",
     "type": "comedy",
-    "price": "free",
-    "tags": [
-      "open mic"
-    ],
+    "price": null,
+    "tags": [],
     "source_url": "https://colesbarchicago.com/shows/comedy-open-mic-december-30-2026-717979",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "coles-2027-01-09-junedoom-final-show-ft-anne-helen-wells-spring-ephemeral",
@@ -1324,7 +1252,7 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/junedoom-final-show-ft-anne-helen-wells-spring-ephemeral-january-09-2027-801680",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   },
   {
     "id": "coles-2027-01-10-holy-joke-crewneck-damager",
@@ -1340,6 +1268,6 @@
     "price": "$15.77",
     "tags": [],
     "source_url": "https://colesbarchicago.com/shows/holy-joke-crewneck-damager-january-10-2027-801704",
-    "scraped_at": "2026-11-20T01:41:45Z"
+    "scraped_at": "2026-11-21T01:09:02Z"
   }
 ]
